@@ -1,5 +1,16 @@
 # FutureNHS Sharing Platform Open Documentation
 This repository contains open documentation related to the research, design and build of the new FutureNHS sharing platform
 
+# What is FutureNHS?
+The FutureNHS Collaboration platform is the only virtual collaboration platform from the NHS that supports people working in health and social care to make change, improve and transform across organisations, places and professions.
+
+To learn more FutureNHS visit https://future.nhs.uk/
+
+# Research
+As a team we're always looking to understand how our members use FutureNHS and how we can make the service better for them. Visit our Research Section to see read about our latest findings.
+
+# Technical
+Visit our Technical Section to learn what the FutureNHS platform is built with and how it all fits together.
+
 # License
 The documentation is © Crown copyright and available under the terms of the Open Government 3.0 licence.
