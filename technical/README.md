@@ -1,13 +1,14 @@
 # Technical Documentation
 
-## Architecture & Infrastructure Setup
+## Architecture & Infrastructure 
 
 - [Architecture](./architecture)
   - [Architecture Decision Records](./architecture/decisions/)
 - [Tech Stack](./tech-stack)
 - [Continuous Integration (CI) Setup](./continuous-integration)
+- [Continuous Deployment (CD) Setup](./continuous-deployment)
 
-## Processes & Ways of Working
+## Process
 
 - [Governance](./governance)
 - [Testing](./testing)
