@@ -40,6 +40,19 @@ In the same open-source spirit we adopted for the components, we have also endea
 - [Terragrunt](https://github.com/gruntwork-io/terragrunt)
 - [Checkov](https://github.com/bridgecrewio/checkov)
 - [LetsEncrypt](https://letsencrypt.org/)
+- [VSCode](https://github.com/Microsoft/vscode)
+- [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow)
+- [Inkscape](https://github.com/inkscape/inkscape)
+- [Gulp](https://github.com/gulpjs/gulp)
+- [Azure Powershell](https://github.com/Azure/azure-powershell)
+- [Azure SDK](https://github.com/Azure/azure-sdk-for-net)
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy)
+- [Gatling](https://github.com/gatling/gatling)
+- [Polly](https://github.com/App-vNext/Polly)
+- [FluentAssertions](https://github.com/fluentassertions)
+- [Moq](https://github.com/Moq)
+- [NUnit](https://github.com/nunit/nunit)
+- [TinyMCE](https://github.com/tinymce)
 
 ## Change process and approvals
 
