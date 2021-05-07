@@ -53,6 +53,8 @@ In the same open-source spirit we adopted for the components, we have also endea
 - [Moq](https://github.com/Moq)
 - [NUnit](https://github.com/nunit/nunit)
 - [TinyMCE](https://github.com/tinymce)
+- [WireMock.NET](https://github.com/WireMock-Net/WireMock.Net)
+- [PactNet](https://github.com/pact-foundation/pact-net)
 
 ## Change process and approvals
 
