@@ -17,5 +17,7 @@ FutureNHS have so far settled upon [Collabora Online](https://github.com/Collabo
 
 Other products which we investigated, and would like to extend support to in the future, include [Aspose](https://www.aspose.com/) and [OnlyOffice](https://www.onlyoffice.com/).
 
+## File Sensitivity
 
+Please visit [here](sensitive-files.md) for more information.
 
