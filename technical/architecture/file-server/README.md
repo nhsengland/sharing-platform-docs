@@ -7,7 +7,7 @@ Files can be attached at various extension points within the system and used to 
 * To a discussion thread within a group
 * To a group's document repository
 
-Files can of course be uplodaed, downloaded, versioned, viewed, edited, commented upon and archived.  They can be logically grouped alongside other files within a 'Document' structure and are fully audited and protected by role-based permissions.
+Files can of course be uplodaed, downloaded, versioned, viewed, edited, commented upon and archived.  They can be logically grouped alongside other files within a 'Document' structure and are fully audited and protected by access permissions.
 
 ## In-Browser File View & Edit
 
@@ -16,6 +16,12 @@ One of the key goals of the platform is to empower third parties to standup thei
 FutureNHS have so far settled upon [Collabora Online](https://github.com/CollaboraOnline/online), but continue to progress talks with Microsoft to add support for [Office Web Apps](https://www.office.com/).
 
 Other products which we investigated, and would like to extend support to in the future, include [Aspose](https://www.aspose.com/) and [OnlyOffice](https://www.onlyoffice.com/).
+
+## WebDAV
+
+WebDAV is a protocol that executes over http and essentially allows a remote file server to be mapped to a local 'drive'.  This means users can edit and version files on their own machines using locally installed software such as the full Microsoft Office suite.
+
+At the time of writing, WebDAV is on the radar as an option for those who are unable to use a commercial WOPI product but given the relative difficulty of standing up a WebDAV environment in Azure, and the ageing nature of the approach, it is not something we intend to consider delivering in the Beta timeframe.
 
 ## File Sensitivity
 

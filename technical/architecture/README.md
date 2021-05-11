@@ -23,7 +23,7 @@ The base platform is essentially the seamless integration of a small number of e
 - [MVCForum](https://github.com/YodasMyDad/mvcforum) to add group discussions
 - [Collabora Online](https://github.com/CollaboraOnline/online) for in-browser file editing/viewing (forked off [LibreOffice](https://github.com/LibreOffice/core)).  This may be more generically referred to as the WOPI-Client in our documentation.
   - [Collabora CODE](https://www.collaboraoffice.com/code/) comes with a free license for editing up to 10 concurrent files and is available to pull down from [Docker Hub](https://hub.docker.com/r/collabora/code/)
-- [Identity Server](https://github.com/IdentityServer/IdentityServer4) for identity and access control
+- [Identity Server](https://github.com/IdentityServer/IdentityServer4) for identifying 'users' and federating with trusted IdPs
 - [File Server](./file-server/README.md) is an optional custom built component that implements the open [WOPI protocol](https://wopi.readthedocs.io/) (the WOPI-Host) and stores files in Azure Storage.  
   - You could swap this out with an open-source alternative such as [Next Cloud](https://github.com/nextcloud) and you can find an [open-source integration with Collabora on GitHub](https://github.com/nextcloud/richdocuments)
   - [WebDAV](https://en.wikipedia.org/wiki/WebDAV) support is earmarked for future development such that the platform can be extended to support alternate file viewing/editing clients such as Microsoft Office, although licenses permitting, you may prefer to explore an alternative WOPI-Client such as [Office Web Apps](https://www.office.com/?ms.officeurl=webapps).
