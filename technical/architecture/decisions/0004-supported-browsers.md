@@ -12,28 +12,39 @@ We need to conclude which browsers (and potentially versions) we will include in
 
 ## Proposal
 
-Given Microsoft Internet Explorer has reached end-of-life in the Microsoft Lifecycle Policy and NHS Digital's subsequent move to [stop supporting Internet Explorer](https://digital.nhs.uk/about-nhs-digital/standards-for-web-products/withdrawal-of-support-for-internet-explorer), we will do the same.
+NF-004 in the original Platform Non-Function Requirements document lists the suggeste browsers to be supported, however, given Microsoft Internet Explorer has reached end-of-life in the Microsoft Lifecycle Policy and NHS Digital's subsequent move to [stop supporting Internet Explorer](https://digital.nhs.uk/about-nhs-digital/standards-for-web-products/withdrawal-of-support-for-internet-explorer), we will do the same.
 
 Shown below are the list of browsers we intend to test our application with:-
 
-### Desktop
+Windows
 
-1. Google Chrome                
-2. Mozilla Firefox              
-3. Microsoft Edge               
-4. Opera                        
-5. Apple Safari                 
+- Edge (latest versions)
+- Google Chrome (latest versions) 
+- Mozilla Firefox (latest versions) 
 
-### Mobile
+MacOS
 
-1. Chrome for Android
-2. Microsoft Edge for Android
-3. Opera Mini for Android
-4. Opera Touch for Android
-5. Chrome for iOS
-6. Microsoft Edge for iOS
-7. Opera Mini for iOS
-8. Opera Touch for iOS
+- Safari 12 and later 
+- Google Chrome (latest versions) 
+- Mozilla Firefox (latest versions) 
+
+iOS
+
+- Safari for iOS 10.3 and later 
+- Google Chrome (latest versions)
+
+Android
+
+- Google Chrome (latest versions)
+- Samsung Internet (latest versions)
+
+Breakdown by device:
+
+- Desktop: 82.89%
+- Tablet: 9.8%
+- Mobile: 7.31%
+
+Further information can be found [here](../../testing/README.md)
 
 ## Decision
 
