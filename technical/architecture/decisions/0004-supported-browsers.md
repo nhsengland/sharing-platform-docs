@@ -12,7 +12,9 @@ We need to conclude which browsers (and potentially versions) we will include in
 
 ## Proposal
 
-NF-004 in the original Platform Non-Function Requirements document lists the suggeste browsers to be supported, however, given Microsoft Internet Explorer has reached end-of-life in the Microsoft Lifecycle Policy and NHS Digital's subsequent move to [stop supporting Internet Explorer](https://digital.nhs.uk/about-nhs-digital/standards-for-web-products/withdrawal-of-support-for-internet-explorer), we will do the same.
+To align our supported browsers with  Microsoft and NHS Digital browser support.
+
+Microsoft Internet Explorer has reached end-of-life in the Microsoft Lifecycle Policy and NHS Digital has subsequently moved to [stop supporting Internet Explorer](https://digital.nhs.uk/about-nhs-digital/standards-for-web-products/withdrawal-of-support-for-internet-explorer).
 
 Shown below are the list of browsers we intend to test our application with:-
 
@@ -38,7 +40,7 @@ Android
 - Google Chrome (latest versions)
 - Samsung Internet (latest versions)
 
-Breakdown by device:
+Current FutureNHS usage breakdown by device:
 
 - Desktop: 82.89%
 - Tablet: 9.8%
