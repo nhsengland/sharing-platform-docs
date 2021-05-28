@@ -6,6 +6,10 @@ Below are links to quantitative user research we have undertaken on FutureNHS or
 - [29 April 2021](/research/user-research-20210429.md) - Interviews on how users use **workspace home pages**, the **page builder** and **forums**
 - [29 March 2021](/research/user-research-20210329.md) - Interviews on how users **get started**, their use of current **user dashboard**, and how they **discover content**
 
+## Surveys
+Below are links to results of surveys undertaken (newest to oldest)
+- [July 2020](/research/managers-survey-202006.md) - Survey conducted on **Workspace Managers** on their use and attitude to the platform.
+
 ## Quantitative
 Below are links to qualitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
 - [27 May 2021](/research/stats-research-20210527.md) - How many users are **members of multiple workspaces**. Data from 01 Jan to 31 March 2021.
