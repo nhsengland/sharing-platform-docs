@@ -312,33 +312,8 @@ Features needing further investigation
 ### Features to Remove/Redesign
 
 - **Weblinks**- Low feature usage, usually embedded in other pages
-- **Blogs** - Forums are prefered from (not sure on the evidence), have far less usage than Forums and serve similar purpose
-- **Picture albums** - Low feature usage, can be served by better document type
+- **Blogs** - Forums are prefered from (not sure on the evidence), have far less usage than Forums and serve similar purpose
+- **Picture albums** - Low feature usage, can be served by better document type
 - **Task list** - Low feature usage, interviews users stated preferences to other management tools, look into potential integrations.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
