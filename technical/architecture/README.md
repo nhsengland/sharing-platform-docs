@@ -55,6 +55,8 @@ In the same open-source spirit we adopted for the components, we have also endea
 - [TinyMCE](https://github.com/tinymce)
 - [WireMock.NET](https://github.com/WireMock-Net/WireMock.Net)
 - [PactNet](https://github.com/pact-foundation/pact-net)
+- [Azurite](https://github.com/Azure/Azurite)
+- [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
 
 ## Change process and approvals
 
