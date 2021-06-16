@@ -57,6 +57,7 @@ In the same open-source spirit we adopted for the components, we have also endea
 - [PactNet](https://github.com/pact-foundation/pact-net)
 - [Azurite](https://github.com/Azure/Azurite)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
+- [App Insights and AzMonitor SDK](https://github.com/microsoft/ApplicationInsights-dotnet)
 
 ## Change process and approvals
 
