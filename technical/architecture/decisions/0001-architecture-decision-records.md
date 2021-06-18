@@ -1,4 +1,4 @@
-# 1. Record architecture decisions
+# 0001. Record architecture decisions
 
 Date: 2021-04-27
 
