@@ -58,6 +58,9 @@ In the same open-source spirit we adopted for the components, we have also endea
 - [Azurite](https://github.com/Azure/Azurite)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
 - [App Insights and AzMonitor SDK](https://github.com/microsoft/ApplicationInsights-dotnet)
+- [Jest](https://github.com/facebook/jest)
+- [IstanbulJS](https://github.com/istanbuljs/istanbuljs)
+- [Jest-JUnit](https://github.com/jest-community/jest-junit)
 
 ## Change process and approvals
 
