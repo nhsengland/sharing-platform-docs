@@ -10,7 +10,8 @@ Unless otherwise stated, the platform uses [styles from the NHS Digital Service 
 ## Components
 Unless otherwise stated, the platform uses [components from the NHS Digital Service Manual](https://service-manual.nhs.uk/design-system/components)
 
-- [Comments](design/components/comments.md) 
+- [Comments](/components/comments.md) 
 
 ## Patterns
-Currently any patterns in use on the platform are reused from existing [patterns on the NHS Digital Service Manual](https://service-manual.nhs.uk/design-system/patterns)
+Unless otherwise stated, the platform uses [patterns on the NHS Digital Service Manual](https://service-manual.nhs.uk/design-system/patterns)
+- [Pretty date format](/patterns/pretty-date.md)
