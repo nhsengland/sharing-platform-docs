@@ -1,7 +1,11 @@
 # Pretty Date
-## When a platform user is viewing a group, dates will be displayed in pretty date format.  Exceptions to this such as user registration date will be defined within individual user stories.
+## When this pattern is used
 
-## If the date relates to something that happened (eg a forum post) it will be displayed as follows:
+When a platform user is viewing a group, dates will be displayed in pretty date format.  Exceptions to this such as user registration date will be defined within individual user stories.
+
+## How this pattern is used
+
+If the date relates to something that happened (eg a forum post) it will be displayed as follows:
 
 * less than 60 seconds ago: 'Just now'
 * Between 60 seconds and 90 seconds: '1 minute ago'
