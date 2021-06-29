@@ -2,6 +2,7 @@
 
 ## User Interviews
 Below are links to quantitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
+- [9 June 2021](/research/user-research-20210609.md) - Interviews on use of **permissions** and **notifications**
 - [12 May 2021](/research/user-research-20210512.md) - Interviews on user **registration**, **user dashboards** and how users **discover new groups**
 - [29 April 2021](/research/user-research-20210429.md) - Interviews on how users use **workspace home pages**, the **page builder** and **forums**
 - [29 March 2021](/research/user-research-20210329.md) - Interviews on how users **get started**, their use of current **user dashboard**, and how they **discover content**
