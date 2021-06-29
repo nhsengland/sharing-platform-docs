@@ -1,6 +1,6 @@
 # FutureNHS User Research - 9th June 2021
 ## Objective
-The focus of this research was to build an understanding of current usage of Permissions and Notifications by Members and Workspace managers. On the current Kahootz platform, we were interesting in:
+The focus of this research was to build an understanding of current usage of Permissions and Notifications by Members and Workspace managers. On the current Kahootz platform, we were interested  in:
 * Managing permissions (workspace managers)
 * Managing notifications (workspace managers & members)
 * Using notifications (members & time allowing for managers)
@@ -59,7 +59,7 @@ When navigating to member permissions, some users hesitated on how to access thi
 
 Users used the ‘Manage members’ area to review members, make individuals a manager or remove dormant users.
 
-Three managers had utilised the ‘Teams’ function on their workspace and explained they used these to create restricted subsites on their workspace that contained sensitive content. Although the other two users had not needed to use this function, they acknowledged it was a useful feature.
+Three managers had utilised the ‘Teams’ function on their workspace and explained they used these to create restricted subsites on their workspace that contained content they only wanted certain users of their worksapce to have access to. Although the other two users had not needed to use this function, they acknowledged it was a useful feature.
 
 Three managers used permissions and Teams as a way to preview content as a member before implementation. They had created a test area where they’d restricted access to certain members allowing them to make changes and preview how things might look with dummy accounts before implementing in public areas. They suggested allowing managers to preview content in a member’s view would save them having to do this.
 
@@ -149,7 +149,7 @@ However both members and managers felt more could be done to differentiate betwe
 
 **Members had not previously noticed the in-platform notifications and felt their were unlikely to use these**
 
-![image](https://user-images.githubusercontent.com/84128097/123648128-9b3dbe00-d820-11eb-97b8-bbd811387721.png)
+![image](https://user-images.githubusercontent.com/9471595/123765835-04274380-d8be-11eb-8d9a-9df7ccd63e63.png)
 
 Both members had not previously noticed or used the in-platform notifications. They suggested this was perhaps due to the subtlety of the pending notification icon in the top navigation.
 
@@ -192,8 +192,6 @@ When asked if they could find a way to subscribe to new content, users were able
 ### Manager notifications
 
 **Managers used a mixture of in-platform and email notifications, but had frustrations with the way these were delivered**
-
-![image](https://user-images.githubusercontent.com/84128097/123648611-fe2f5500-d820-11eb-834d-8a888fba7113.png)
 
 When it came to reviewing their own notifications, managers did this through a combination of emails and in-platform. They would typically use emails as an initial prompt to access the platform but then once signed some would see any further notifications from within the platform.
 
