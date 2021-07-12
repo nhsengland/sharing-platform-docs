@@ -19,7 +19,7 @@ During this period 5,521 workspace managers logged onto the platform and 16,199 
 
 The following graphs show the distribution of the numbers of folders created between workspaces
 
-![image](https://user-images.githubusercontent.com/9471595/125309682-db756400-e329-11eb-98cd-c060e7c44960.png)
+![image](https://user-images.githubusercontent.com/9471595/125310654-b2a19e80-e32a-11eb-89e7-ce8dbb0fefae.png)
 
 As you can see, only a minority of workspaces tended to create significant numbers of folders. This is also reflected when you take workspace manager created folders out of the data.
 
