@@ -9,13 +9,13 @@ During this period 5,521 workspace managers logged onto the platform and 16,199 
 (excluding one workspace that had uploaded an abnormally large amount of content during this period)
 
 ## Results
-- 16,199 folders were created by 1673 individual platform users
-- 461 (28%) of the users who created folders were not workspace managers
-- 3,088 (19%) folders were created by members who were not workspace managers
+- **16,199 folders** were created by **1673 individual platform users**
+- **461 (28%) of the users** who created folders were **not workspace managers**
+- **3,088 (19%) folders** were created by members who were **not workspace managers**
 - 762 workspaces had folders created in them
-- 151 (20%) of workspaces had folders created by members who were not workspace managers
+- **151 (20%) of workspaces** had folders created by members who were **not workspace managers**
 - 5,521 workspace managers logged into the platform during the reporting period
-- 4,309 (78%) of workspace managers who logged into the platform did not create a folder
+- **4,309 (78%) of workspace managers** who logged into the platform **did not create a folder**
 
 The following graphs show the distribution of the numbers of folders created between workspaces
 
