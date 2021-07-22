@@ -61,6 +61,7 @@ In the same open-source spirit we adopted for the components, we have also endea
 - [Jest](https://github.com/facebook/jest)
 - [IstanbulJS](https://github.com/istanbuljs/istanbuljs)
 - [Jest-JUnit](https://github.com/jest-community/jest-junit)
+- [MIME-Detective](https://github.com/Muraad/Mime-Detective)
 
 ## Change process and approvals
 
