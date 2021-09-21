@@ -15,7 +15,7 @@ The [Design section](/design) includes details of components and patterns used o
 # Technical
 Visit our [Technical Section](https://github.com/nhsengland/sharing-platform-docs/tree/main/technical) to learn what the FutureNHS platform is built with and how it all fits together.
 
-## Source Control Repositoriess
+## Source Control Repositories
 Visit our [Source Control Section](https://github.com/nhsengland/sharing-platform-docs/tree/main/technical/source-control) to discover the GitHub repositories we use to publish our platform components
 
 # License
