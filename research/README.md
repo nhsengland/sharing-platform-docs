@@ -2,7 +2,7 @@
 
 ## User Interviews
 Below are links to quantitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
-- [3 Aug 2021] (/research/interviews/user-research-20210803.md) - Interviews on use of **kahootz workspace homepage** and **Managers Wireframes**
+- [3 Aug 2021] - Interviews on use of **kahootz workspace homepage** and **Managers Wireframes**
 - [9 June 2021](/research/interviews/user-research-20210609.md) - Interviews on use of **permissions** and **notifications**
 - [12 May 2021](/research/interviews/user-research-20210512.md) - Interviews on user **registration**, **user dashboards** and how users **discover new groups**
 - [29 April 2021](/research/interviews/user-research-20210429.md) - Interviews on how users use **workspace home pages**, the **page builder** and **forums**
