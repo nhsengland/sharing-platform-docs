@@ -14,6 +14,7 @@ Below are links to results of surveys undertaken (newest to oldest)
 
 ## Quantitative
 Below are links to qualitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
+- [26 October 2021](/research/quantitative/stats-research-20211026.md) - How **Teams permissions** functions are used on the platform. Data up to 26 October 2021.
 - [12 July 2021](/research/quantitative/stats-research-20210712.md) - What types of **members are creating folders** on the platform? Data from 01 May 2021 to 11 July 2021.
 - [27 May 2021](/research/quantitative/stats-research-20210527.md) - How many users are **members of multiple workspaces**. Data from 01 Jan to 31 March 2021.
 - [19 March 2021](/research/quantitative/stats-research-20210319.2.md) - Investigation into the use of **folders as web pages** on the platform. Data up to 19 March 2021.
