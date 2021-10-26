@@ -9,6 +9,8 @@ From the data we found
 - **850 workspaces** have used **at least one Team** (out of the 2,525 workspaces on the platform ~34%)
 - **75%** of workspaces who use Teams have **under 100 items** on their workspace that have **permissions assigned to a Team**
 - **21 workspaces** have **over 1,000 items** on their workspace that have **permissions assigned to a Team**
+- **95% of items** have **under 5 Teams assigned** to them
+- **4 items** have **40+ Teams assigned** to them!
 
 A histogram showing the distribution of the amount of items per workspace that have Teams permissions is shown below:
 
