@@ -1,7 +1,7 @@
 # Research
 
 ## User Interviews
-Below are links to quantitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
+Below are links to qualitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
 - [21 Sep 2021](/research/interviews/user-research-20210921.md) - Interviews on **segmentation** and **persona validation**
 - [3 Aug 2021](/research/interviews/user-research-20210803.md) - Interviews on use of **kahootz workspace homepage** and **Managers Wireframes**
 - [9 June 2021](/research/interviews/user-research-20210609.md) - Interviews on use of **permissions** and **notifications**
@@ -14,7 +14,7 @@ Below are links to results of surveys undertaken (newest to oldest)
 - [July 2020](/research/surveys/managers-survey-202006.md) - Survey conducted on **Workspace Managers** on their use and attitude to the platform.
 
 ## Quantitative
-Below are links to qualitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
+Below are links to quantitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
 - [29 October 2021](/research/quantitative/stats-research-20211029.md) - Anslysis of how workspaces use **permissions** with regards to **forums**. Data up to 29 October 2021.
 - [26 October 2021](/research/quantitative/stats-research-20211026.md) - How **Teams permissions** functions are used on the platform. Data up to 26 October 2021.
 - [12 July 2021](/research/quantitative/stats-research-20210712.md) - What types of **members are creating folders** on the platform? Data from 01 May 2021 to 11 July 2021.
