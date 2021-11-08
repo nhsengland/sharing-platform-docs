@@ -205,21 +205,6 @@ We interviewed 9 users:
 *	There was some general confusion around the use of colours on the platform.  Some commented on the use of purple for groups as they felt this clashed with the NHS blue. Others commented on the use of coloured stripes on groups and were unsure what these represented 
 *	Most preferred the name ‘Groups’ over ‘Workspaces’ as they felt this better described their purpose, as a networking group, similar to a group on social media. They felt ‘workspaces’ were more formal and had negative connotations with ‘extra work’
 
-## My Groups – Recommendation & Next Steps
-
-| Page/Area     | Recommendations/Considerations| User Impact  | Business Priority  | Actions  | Actions Who  |
-| ------------- |:-----------------------------:| ------------:| ------------------:| --------:| -----------: |
-| My groups –Latest activity | | | | | |
-| My groups –Latest activity | | | | | |
-| My groups –Latest activity | | | | | |
-| My groups –Latest activity | | | | | |
-| My groups –All my groups   | | | | | |
-| My groups - Group Homepage | | | | | |
-| My groups –Discover new groups | | | | | |
-| My groups –Discover new groups | | | | | |
-| My groups –Discover new groups | | | | | | 
-|  | 11) Review the use of colour sthroughout | Low | Med | Low/Med Consider different colour for group part of wider branding / colour of | Design |
-
 ## Stakeholder – Kahootz Workspace Homepages
 ### Stakeholders shared the real variety of workspace homepage designs due to flexibility on the current platform, through acknowledged this creates challenges
 ![image](https://user-images.githubusercontent.com/84839501/139689744-129c6c7d-496b-47ec-8c86-e931ada9277c.png)
@@ -338,22 +323,6 @@ Those who picked content blocks said this was due to it providing more flexibili
 *	One user was unsure what the options to ‘View full card’ or ‘Compact’ referred to and suggested providing a preview
 *	Overall although managers felt this template worked well to provide access to their forum, they also wanted the choice to add additional features such as calendars and files. They recognised files could be accessed from the header but felt the option to add a link on the page would also be useful
 
-### Wireframes – Forums First
-
-| Page/Area     | Recommendations/Considerations| User Impact  | Business Priority  | Actions  |
-| ------------- |:-----------------------------:| ------------:| ------------------:| --------:|
-| Choosing a template | 1) Consider adding a more detailed description to ensure users understand what they must do on this page and how rigid these are | Med | Low | First iteration just has 1 template (content block) – other may come later. Some of the templates should be added as ‘block types’e.g. the stream. Action: Add stream as block option on content block template |
-| Choosing a template | 2) Consider adding a preview option to help managers choose | Low | Low | Consider later |
-| Choosing a template | 3) Consider moving forward with just the ‘Content block’ template | Med | Low | Consider later|
-| Editing the page | 4) Review positioning and visual design of calls to action ‘Save draft’ &‘Save and preview page’ to ensure all content is noticed | Med | Med | 1) Need to consider consistency across pages. Keep edit options where they are. 2) Does header come under generic workspace settings page –choose types of content they want (disable forum / file & folder). Suggest this becomes a step 1 before |
-| Editing the page | 5) Consider adding functionality to allow users to ‘drag & drop’ or reorder blocks | High | Low could become high | Going through estimation process to replicate functionality in Kahootz |
-| Editing the page | 6) Consider including additional help & descriptions when editing blocks to explain what features are and word counts | Low | Med | Strive to do as much as possible – part of training piece | Consider effect of no JavaScript |
-| Editing the page | 7) Consider including icon and image libraries when editing blocks and links | Low | Med | Nice to have. Icons included in estimation & in conversation about image library in Kahootz |
-| Editing the page | 8) Consider adding the option to show discussion posts by ‘Most Recent’ as well as ‘Popular’ | Med | High/Low | (High) Change to most recent by default. (Low) With option to sort by most popular – consider what defines this (most liked, most comments, is there a time element?) |
-| Editing the page | 9) Consider adding information to explain how Publish works andwhere drafts will save to | Low | Low | Feel like this is a lot of explanation – provide a link to knowledgebase – add as a dead link for now until ready |
-| Overall | 10) Consider whether users will be able to add additional blocks to the existing templates | Med | Low | Consider later – likely to be the way it works anyway |
-| Overall | 11) Additional consideration is needed as to how creating a template will fit into the overall group creation process. E.g.when do users add content that they are providing links to on the homepage | High | Low | Taking away choice & introducing a first step – generic workspace settings where users disable content they don’t want |
-
 ### Stakeholder - Wireframes
 #### Wireframes – Template Response
 ![image](https://user-images.githubusercontent.com/84839501/139713473-796889f2-9ca1-4e9b-8b8d-53d1cd7d0cb8.png)
@@ -364,15 +333,6 @@ Those who picked content blocks said this was due to it providing more flexibili
 *	Although stakeholders did not feel anything major was missing on the templates, they still felt there may be some initial resistance to the limited options, and that an education piece on how to make best use of the features would be necessary
 *	Overall stakeholders felt this was a good starting point in that it will speed up and make the process for straightforward, particularly for new managers
 *	Stakeholders felt the new designs were not too ‘NHS-y’ which is important given that cross-organisation collaboration is a real opportunity for this platform
-
-### Stakeholder – Wireframes – Recommendations & Next Steps
- 
-| Page/Area     | Recommendations/Considerations| User Impact  | Business Priority  | Actions  |
-| ------------- |:-----------------------------:| ------------:| ------------------:| --------:|
-| Template Response | 11) Consider what designs will look like if users do not add images or icons | Low | Low | 1) Short term - if they don’t put anything in there will be a default image. 2) Future - where we can, would like to always add default image. Can we have a limited image library and it randomly assigns image if they do not choose one. 3) Consider media library for every workspace which is prepopulated with starter images. Consider feasibility of this |
-| Template Response | 12) Consider how we introduce the templated approach as part of the wider migration work to ease any resistance | High | Med | 1) Test with users to see how our first version approach (content blocks) is received. 2) Conversation migration technical – can we create a Kahootz page block – info migrated from old platform (static HTML - ok, dynamic – difficulty) |
-| | Can users add additional blocks not currently present | Med | Low | 1.	First iteration – will be limited to priority blocks. 2.	Blocks could be iterative,prioritized based on needs & current use – shiny new blocks added periodically. Stability needs to be considered. 3.	Links to kahootz work currently |
-| | Page currently geared towards new rather than existing users. Two versions? | Low | Med | 1.	Could go with as is for now. 2.	Could have blocks that disappear after first time seeing – do these get moved to ‘About us’ page. 3.	First page when viewing a group for first time – splash page ‘About us’, thereafter, arrive at homepage, with access to ‘About us’ via the nav. Means homepage can be more dynamic less content based |
 
 ## Members - Wireframes
 
