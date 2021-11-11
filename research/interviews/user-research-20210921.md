@@ -205,157 +205,124 @@ We interviewed 9 users:
 *	There was some general confusion around the use of colours on the platform.  Some commented on the use of purple for groups as they felt this clashed with the NHS blue. Others commented on the use of coloured stripes on groups and were unsure what these represented 
 *	Most preferred the name ‘Groups’ over ‘Workspaces’ as they felt this better described their purpose, as a networking group, similar to a group on social media. They felt ‘workspaces’ were more formal and had negative connotations with ‘extra work’
 
-## Stakeholder – Kahootz Workspace Homepages
-### Stakeholders shared the real variety of workspace homepage designs due to flexibility on the current platform, through acknowledged this creates challenges
-![image](https://user-images.githubusercontent.com/84839501/139689744-129c6c7d-496b-47ec-8c86-e931ada9277c.png)
+### Files & Folders - Initial Impressions & Add folder
+#### Users thought the section appeared as they expected and understood how to get started acessing existing or adding new folders
+![image](https://user-images.githubusercontent.com/84839501/141293527-7358387c-fa87-4d6a-ac58-2013783890a4.png)
 
-*	Stakeholders informed us that there is a real variety of use cases for workspaces homepages. This is possibly due to the flexibility and ‘free reign’ that managers have at the moment
-*	Whilst the flexibility is great in allowing workspaces to best suit the needs of their members, it also creates challenges:
-*	Managers do not always have a technical or design background making homepage creation challenging and requiring additional support & training
-*	Currently too much choice and little clarity on what different features should be used for leads to incorrect use of features
-*	Because the platform is free, many will use it despite it not necessarily being the correct solution for their needs
-*	Stakeholders saw the need for a ‘flexible template’ providing a framework to build within but with some flexibility
+* Most users reacted positively to the ‘Files’ section. They understood they would have accessed this from the ‘Files’ tab within the group navigation and explained it looked as they expected with a clear design & layout
+* Users were quickly drawn to ‘Add folder’ explaining it was clear how they would begin adding a new folder
+* Users responded positively to the error validation, explaining this was clear and liked that it provided a link to the error itself, saving any confusion on longer forms in particular
+* One user expected to see at least a preview of their ‘description’ appearing in the list of folders to help distinguish between folders
+* Some were surprised that there did not seem to be the option to add folders within folders. Although some said this may be ok as it would encourage them to create better folder structures, others felt this functionality was important to create sub areas for their workspace
 
-## Members – Kahootz – Getting Started & Workspace Homepage
+### Files & Folders - Adding & Viewing Files
+#### Users were able to upload a file with ease but wanted to see additional detail and functionality when viewing files in a folder
+![image](https://user-images.githubusercontent.com/84839501/141293696-2091000c-6b01-4596-8684-492abfa66b34.png)
 
-### Kahootz – Getting Started * Workspace Homepage
-#### Members use of workspace homepages was limited as they were usually directed to updates or content from email notifications
-![image](https://user-images.githubusercontent.com/84839501/139689825-771f4860-3c0e-4515-8531-a475439ed2d8.png)
+* Users felt it was clear and straightforward to upload a file
+* One user wanted to be able to ‘drag and drop’ a file in as they said thy found this easier than having to locate it in their File Explorer
+* Some wanted to be able to see ‘Modified date’ as well as uploaded to be able to keep track of activity on files
+* Again some thought it would be useful to see the file description in the table on the folder page to help distinguish between documents
+* To navigate files, some expected to be able to ‘search’ or ‘sort’ by clicking on the ‘Name’ and ‘Uploaded date’ headings to reorder items in a similar way to File Explorer.
+* Some suggested adding pagination when files exceed a certain number as this is easier to browse than a long list of files
+* One manager explained that being able to display files in a grid rather than a list had worked well to aid navigation on their current workspace and they would like to see a similar option here
 
-*	Members did not naturally engage with the workspace homepage when getting started or accessing the platform. They explained they usually accessed content directly form an email notification
-*	If for any reason they wanted to revisit something or find specific content, they may come to the homepage to do this but explained this was very rare and they may just use the search function instead
-*	One member explained their interaction was mostly with the discussion forum and that this was typically used to signpost & direct members to relevant content on the workspace
-*	When asked to review their workspace homepage, one user felt this was very ‘busy’ and contained lots of sections and information not relevant to them, making it difficult to figure out where they should go 
+### Files & folders –Adding & viewing files
+#### Users felt there was an unnecessary step when viewing files and expected to see additional versioning options to support collaboration
+![image](https://user-images.githubusercontent.com/84839501/141293863-99964afe-d83c-4ff5-b27d-08d8ddcbc025.png)
 
-## Managers - Wireframes
+* When going to view a file, users clicked on one of the name links, but explained they thought this would take them directly to the file preview so were surprised when this took them to the File Description page. Some said this felt like an unnecessary extra step
+* Some had hoped to be able to be able to edit and collaborate on documents within the document viewer so were disappointed when this did not seem to be an option. They understood they must download a document to make changes instead but worried this would create versioning issues and discourage collaboration
+* Some users stressed the importance of versioned documents on the current platform but explained they were unsure how this would work in the new designs. They suggested listing the number of versions on the preview page and then providing access to older versions on the File description page
+* Users did not usually notice the in-page link to return them to the folder, instead using the main breadcrumb or browser back button. They felt this may be more obvious if more levels were shown and they had named the folder themselves
 
-### Wireframes – Choosing a template
-#### Most understood they must choose a template to proceed, though some wanted additional examples or explanations to help them choose
-![image](https://user-images.githubusercontent.com/84839501/139712491-6d8a0c32-9847-48fa-ad2e-bc9906c2d644.png)
+### Files & folders – Overall
+#### Overall users felt that adding and viewing files and folders was straightforward but expected to see additional options around editing & permissions
+![image](https://user-images.githubusercontent.com/84839501/141294130-8ffdc09c-f89b-4033-9df6-0bc7240b016c.png)
 
-*	Most managers understood what they were required to do at this point, and got started by reviewing the options and deciding which would be most appropriate for them
-*	Although most responded positively to creating a homepage via templates, some were initially resistant, explaining workspaces were customised and ‘don’t fit into boxes’
-*	One user did not initially realise they had to choose one of these, and thought they were ‘Blocks’ of which they could choose multiple to build the page. They felt the description should be more specific to help them understand what they needed to do
-*	Some had difficulty making a decision based on the icons and descriptions alone and suggested adding preview images to help them choose the most appropriate
-*	Managers wanted to understand how rigid these templates were and whether they would be able to still add other types of content, especially if later down the line the scope of their workspace changed. They were afraid they may have to start again from scratch
+* There was some concern that permissions had not been considered in the new designs. When creating folders and uploading files, some users explained they would like to see options to restrict access, particularly when dealing with sensitive content
+* One user who was an existing workspace manager said they would like to see further options around files and folders such as the option to move a file, edit its title or delete it
 
-#### 5 out of & managers would choose the ‘Content Block’ template due to flexibility
-![image](https://user-images.githubusercontent.com/84839501/139712569-a3122f62-5985-4b9c-afe8-8df6af507f84.png)
+## Design Validation - Forums
 
-*	Out of the 7 managers who saw the template options, 5 opted for the ‘Content blocks options’ due to the perceived flexibility allowing them to include different types of content, and many explaining this seemed similar to the current setup on Kahootz
-*	2 managers chose the forums first approach as the forum was the most used area of their workspace
-*	Some with smaller or newer workspaces explained they would not choose the Stream/Feed or Discussion first templates as there was not enough activity on their workspace
+### Forums –understanding & initial impressions
+#### Some were initially unsure where they were on the platform, but felt the forum page appeared clear and familiar
+![image](https://user-images.githubusercontent.com/84839501/141294330-e7efe58f-123b-4f44-a379-4f8e355e6a7d.png)
 
-### Wireframes – Choosing a template – Quantitative Test
-#### 61% of managers chose the ‘Content blocks’ template due to more flexibility and opportunities to customise
-![image](https://user-images.githubusercontent.com/84839501/139712624-44763ec2-2591-4fba-95f6-3beaa3f83b7d.png)
+* When arriving on the Forums page, some were unsure where abouts they were on the platform. Most were able to work this out using the breadcrumb but this raised confusion as to whether forums always sat within a group or within the Forums tab in the main left-hand navigation
+* One user explained the layout and design seemed familiar because it looks similar to social media, though explained this also concerned them as they worried it could lead to more relaxed and unprofessional conversations
+* Users felt the ‘Latest discussion’ page was clear and understood they could either choose a discussion to view it or start a new discussion
 
-#### 28 managers took part in the quantitative test
-Before seeing the template options, users were asked ‘When you create a workspace, which of the following apply to you?’
-*	61% answered ‘I'd prefer to choose between some ready-made templates’
-*	29% answered ‘I enjoy designing a workspace from scratch’
-*	11% answered ‘I'd like the platform to generate a standard template for me’
+### Forums –start a new discussion 
+#### Users understood how to start a new discussion but questioned some of the fields and options
+![image](https://user-images.githubusercontent.com/84839501/141294426-373e12d2-af95-4083-ae0f-768219364449.png)
+![image](https://user-images.githubusercontent.com/84839501/141294434-bfe03a8a-a6b1-4fcc-88e3-2b4a5e02e286.png)
 
-When presented with the four template options: 
-*	61% chose the ‘Content blocks’
-*	7% chose ‘Stream / feed; 
-*	7% chose ‘Documents first’
-*	4% chose ‘Forum first’
+* When starting a new discussion, users were confused by the field ‘Label text goes here’ as they expected this to say ‘Title’
+* One user explained that duplicate discussions are a problem on the current platform so it would be useful if there was logic built-in to flag if any posts with a similar title already exist
+* Users liked the option to ‘Pin discussion’ but explained they expected this to just pin it for them rather than the all members. They felt it would defeat the point of pinning if everyone pinned their own posts
+* One user suggested that only workspace managers should be able to pin posts to ensure the feature is used effectively
+* One user spoke about being able to ‘Pin a discussion to a topic’ explaining that they would like to be able attach or ‘tag’ new discussions against a subject area
+* Users were unsure on the order discussions appeared in as these did not seem to be chronological. They expected to have the option to sort in a way that was most meaningful to them such as most recent or most liked
 
-Those who picked content blocks said this was due to it providing more flexibility and opportunities to customise content and design
-*	93% said they were ‘Very confident’ or ‘Somewhat confident’ with their choice
+### Forums –viewing a discussion post
+#### There was some confusion around the order in which comments appeared and the way replies are presented in a thread
+![image](https://user-images.githubusercontent.com/84839501/141294585-215d7cc8-d0fa-4077-bcee-261e4f6e6903.png)
+![image](https://user-images.githubusercontent.com/84839501/141294594-30593639-473e-4137-ab2b-7315911c14c5.png)
 
-### Wireframes – Content blocks – editing the page
-#### Managers understood how to get started editing the page, but wanted further clarity on functionality and options
-![image](https://user-images.githubusercontent.com/84839501/139712782-52f633b5-0b93-4d8b-8d93-da64eea03ad8.png)
-![image](https://user-images.githubusercontent.com/84839501/139712790-94d710cb-9525-45ef-aac1-d8a168918a23.png)
+* There was a mixed response to the order that comments appeared when viewing a discussion post. Some were happy with the current order where most recent appeared at the bottom, others expected new comments to be added to the top so were confused when trying to read through and understand comments
+* The way threaded comments appeared caused confusion for users. Based on the indentation and additional blue line, users felt it was clear when it was a reply to a comment rather than a new comment. However they did not usually understand when it was a reply to a reply. This appeared no different visually, and users said they would expect this to be indented further to distinguish a reply vs a reply to a reply
+* Users thought it was clear how they would like and reply to comments themselves
+* When asked to add a new comment, some users were drawn to the bottom of the page explaining this is where they expected to find a comment field. However others expected this at the top instead or to be a floating button they could use no matter where on the page they were
+* Users liked the options to format their comment, though one user suggested also having the option to reply privately as they may not always want to ask a question or respond publicly
 
-*	Most users got started editing their page with ease and felt it was clear how they would get started editing or deleting blocks
-*	Some initially missed the header block at the top of the page, explaining they assumed all editable content sat below the calls to action ‘Save draft’ and ‘Save and preview page’.
-*	A number of managers wanted to be able to move blocks around with some explaining that the ‘Key links’ were something they would want at the top, or a need to spotlight any key updates
-*	When editing the header block, some questioned whether there was a word limit for the descriptions and felt this should be specified
-*	A number of users were unsure what the options to ‘Include a forum page’, ‘…files page’, ‘…members page’ were for, explaining there should be a tooltip or contextual help to explain these 
-*	Once realising what these were, some users commented it was confusing to be asked to add these before creating any kind of site structure and questioned at what point they would do this
-*	However most responded positively to the option to add these to the header explaining these were key areas and provides a clear entry point
+### Forums –overall
+#### Overall users felt the designs were more user friendly and easier to navigate compared to the current platform
+![image](https://user-images.githubusercontent.com/84839501/141294684-d5afa07f-f177-4762-aac0-364400e2da71.png)
 
-#### Managers liked the Introduction block, but questioned how it would appear & there was a mixed respond to the Group Summary
-![image](https://user-images.githubusercontent.com/84839501/139713077-89f971eb-9167-4d6a-9153-7bd0ee92db40.png)
+* Overall users commented that the new forum designs seemed user friendly and easier to navigate compared to the current Kahootz platform
 
-*	In the Group Introduction block, users liked the fact the image was formatted for them as many had had difficulty formatting pictures on Kahootz.
-*	Some questioned whether the introduction block would need to appear consistently, and suggested a hide function to maximise screen space for familiar members
-*	There was a mixed response to the group summary as whilst some said this was useful to see, those particularly with less active groups said they would may not want this visible to all members and instead would want it for auditing purposes only
-*	When adding ‘Essential links’ users liked the option to add icons but hoped there would be a library to choose from for ease and consistency. 
-*	Some were also unsure whether they could link to external pages as internal pages and explained they hope they would be able to
+## Design Validation - User Dashboard
 
-#### Some wanted to see ‘Most recent’ rather then ‘Popular’ discussions, and there were mixed views on how popular pages should be populated
-![image](https://user-images.githubusercontent.com/84839501/139713162-9e51406c-c305-469d-bf8b-32427db7dac7.png)
+### User dashboard –initial impressions & favourites
+#### Most understood they were on the ‘Home’ page and liked to see a page personalised to their activity
+![image](https://user-images.githubusercontent.com/84839501/141294824-39b8a7b7-5d0d-4c14-83a2-fdc647ee1bca.png)
 
-*	Although most liked being able to see a preview of discussions under ‘Popular Discussions’ which wasn’t available on the current platform, most wanted this to be ‘Most recent’ rather than ‘popular’
-*	Most managers liked the idea of having ‘popular pages’ on their workspace acknowledging that this may encourage browse, but had mixed views on how these should be populated:
-*	Some expected them to populate themselves based on most interacted pages
-*	Others wanted to be able to populate these themselves, based on what they thought was priority content in case it got missed further up the page
+* Most users had a good understanding of where they were on the platform when arriving on this page and described it as their ‘homepage’
+* Users liked how this page seemed to be personalised to their own groups and activity, explaining this seemed to be much better than the current platform as it brings everything into one place
+* Most liked to see favouritesat the top of the page and after reviewing these and the icons, realisedthese included multiple content types not just groups they had favourited.
+* One user also wanted to be able to favourite files not just folders
+* One user suggested grouping favourites so that groups appear together, discussions appear together etc.
 
-### Wireframes – Save & Preview
-![image](https://user-images.githubusercontent.com/84839501/139713221-ec9b38d2-2369-47df-9e8b-7a7a28d17e9b.png)
-  
-*	Most users responded positively to the option to ‘Save & Preview’ page ahead of publishing as they acknowledged this was a missing feature on the current platform, and would save them having to use workarounds such as ‘Test’ pages
-*	One user suggested having these options available from the bottom of the template page so that they are visible after populating content in the final block
-*	One user however was unsure on the purpose of a ‘Preview’ function as they felt the template itself provided a good preview of what the page would look like
-*	One user questioned where the draft would save to, whether this would be a draft workspace or whether it would be accessed from somewhere in their personal profile
-*	One user wanted more clarity on what would happen once they published their homepage and whether they would still be able to edit it
+### User dashboard –‘Here’s what’s happening’
+#### Most were unsure what content was showing under ‘Recent activity’ and felt ‘Discover groups’ was a duplication od the groups section
+![image](https://user-images.githubusercontent.com/84839501/141294961-fec4b321-db7f-47a6-a36b-d2cf6a3a2069.png)
+![image](https://user-images.githubusercontent.com/84839501/141294965-1d494fcb-6825-49a2-a167-c5863bb1adb0.png)
 
-### Wireframes – Content Blocks – Overall
-![image](https://user-images.githubusercontent.com/84839501/139713262-ff0c1d52-76d8-4ca3-8a9b-dd53a72344a7.png)
+* Under recent activity users understood this was a list of latest activity on the platform but were initially unsure where this was coming from. Some thought it was a combination of updates relevant to them and then more generic activity from groups they were not necessarily a member of
+* Until pointed out, most users did not realisethis feed was showing a combination of group updates and personal notifcations. Users suggested this could get overwhelming and were often unsure how it was different to ‘Latest activity’ on the group homepage, so suggested limiting ‘Recent activity’ to notifications and updates directly relevant to them (e.g. content they were following)
+* Users liked to see ‘Recommended groups’ within ‘Discover groups’ though some felt this duplicated the ‘Discover New Groups’ section within groups so challenged the need for both
+* Some commented that they preferred the grid layout of this version as it was more visual than the list in ‘Groups’
+* Although they could not click to view ‘Recommended content’ users expected this to be similar to ‘Recommended groups’ but content specific based on content they currently interacted with
+* Some were unsure whether this would include content from groups they are a member of or not. To add value they felt this would have to include content from groups they were not a member of, but acknowledged this may be complicated by permissions
 
-*	Overall most users felt the editing process was easier & more straightforward than the existing process on Kahootz where lots of manual editing is involved
-*	Most said they would be confident using a templated approach for their workspace and felt that generally the workspaces appeared more visually appealing
-*	Some did raise concerns over whether this style would provide enough flexibility for their workspace, especially as not all current features such as Carousels or Events Calendars were available and it was unclear whether they could add additional blocks
-*	One manager suggested the addition of a custom text and image block to allow for more creativity
-*	Whilst appreciating the benefit of more uniformed workspaces from a consistency and learnability perspective, some were concerned they would miss the opportunity for creativity and every workspace would end up looking similar regardless of their members’ wants and needs
-*	Some explained they could not truly understand whether this approach would work for their workspace before trying it out and understanding how they would create the content and structure behind this page
+### User dashboard –‘Here’s what’s happening’ – Bookmarks
+#### Users were initially confused by Bookmarks and were unsure how these would be different to favourites
+![image](https://user-images.githubusercontent.com/84839501/141295096-b43c625f-dd94-4f11-95aa-da5cb5ef4520.png)
 
-### Wireframes – Forums First
-![image](https://user-images.githubusercontent.com/84839501/139713308-d900ea34-0238-4b2e-8050-76350c3123ef.png)
-![image](https://user-images.githubusercontent.com/84839501/139713314-ab0b7aa2-ac32-4b79-b979-cccd613b6a6c.png)
+* Most users were initially confused by ‘Bookmarks’ and struggled to understand how these would be different to Favourites. They felt just one or the other was necessary
+* Some users thought Bookmarks may be related to what the had ‘pinned’ having seen this functionality in the Forums area
+* One user initially likened Bookmarks to a ‘Follow’ feature or the option to ‘subscribe’ to a discussion similar to the current platform
+* Once reviewing Bookmarks, some understood this as a ‘Save for Later’ feature for specific pages or pieces of content, and said they thought this was useful to have as well as favourites
+* Some suggested changing the name to ‘Saved links’ to distinguish between this and favourites
+* Users were unsure how they would add bookmarks, as they only recalled seeing a star icon on content throughout the platform
 
-*	When editing the ‘Popular discussions’ block, one manager questioned what defines ‘most popular’ 
-*	Because of this they were also unsure what was meant by ‘last 10 updates’ or ‘last 20 updates’, and whether these were still referring to most popular or most recent
-*	One user was unsure what the options to ‘View full card’ or ‘Compact’ referred to and suggested providing a preview
-*	Overall although managers felt this template worked well to provide access to their forum, they also wanted the choice to add additional features such as calendars and files. They recognised files could be accessed from the header but felt the option to add a link on the page would also be useful
-
-### Stakeholder - Wireframes
-#### Wireframes – Template Response
-![image](https://user-images.githubusercontent.com/84839501/139713473-796889f2-9ca1-4e9b-8b8d-53d1cd7d0cb8.png)
-
-*	Stakeholders explained they often get suggestions from users about being able to choose from recommended designs, so felt the templated approach was a good idea
-*	There was some concern over there not being a ‘blank’ template for people to design on from scratch, though they did later recognise that the ‘Content blocks’ template could be used in this way if users were able to delete and add blocks of their choice
-*	Some workspaces do not have logos or images they can use so we need to consider what happens to these sections if left blank
-*	Although stakeholders did not feel anything major was missing on the templates, they still felt there may be some initial resistance to the limited options, and that an education piece on how to make best use of the features would be necessary
-*	Overall stakeholders felt this was a good starting point in that it will speed up and make the process for straightforward, particularly for new managers
-*	Stakeholders felt the new designs were not too ‘NHS-y’ which is important given that cross-organisation collaboration is a real opportunity for this platform
-
-## Members - Wireframes
-
-### Wireframes – Response to designs
-#### Both members preferred the Content Blocks Layout as it allowed them to see and access a variety of content
-![image](https://user-images.githubusercontent.com/84839501/139713634-64f969c8-82a7-4590-baa3-e6c338be9921.png)
-  
-*	Out of the two members we reviewed designs with
-*	The first was shown the Content block and Stream/Feed template but acknowledged that whilst the Stream/Feed was a useful way to see most recent activity (a requirement for them) they would still want to be able to access other content such as Events, Webinars and Best Practice topics from this page. They also felt the stream would be too general and suggested being able to filter by topic or workstream
-*	The second was shown the Forum and Content Blocks templates. Although the forum is currently their most used feature they felt the Forum first template was limiting as they also wanted to see other content and documents. They preferred the Content Blocks layout as it contained a variety of content, but suggested restrictions would need to be implemented to ensure homepages do not get too busy like on the current platform
-
-### Wireframes – Response to designs – Quantitative Test
-#### 77% of members chose the ‘Content Blocks’ design due to it providing more navigational options and seeming most ‘user friendly’
-![image](https://user-images.githubusercontent.com/84839501/139713692-f69b8954-cfff-4d30-863e-6fd3a3338c13.png)
-
-*	36 members took part in the quantitative test
-*	They were shown the four homepage design options and asked to indicate which of the layouts would best suit their need: 
-*	77% chose the ‘Content blocks’
-*	17% chose ‘Recent workspace activity stream’
-*	3% chose ‘Documents focused’
-*	3 chose ‘Forum focused’
-
-*	Members who picked ‘Content blocks’ said that this seemed to provide the options and links they needed to navigate the workspace and seemed the most ‘user friendly’. Some likened it to current workspaces
-*	Members who picked ‘Recent workspace activity stream’ explained they wanted to see recent activity when they accessed the platform, and this seemed clear and simple
-
+### User dashboard – Overall
+#### Although most responded positively to ‘Home’ as a central place to view content, others felt they would not get the time to use this
+![image](https://user-images.githubusercontent.com/84839501/141295177-aa12c628-5f20-4cdf-b6a7-351627f4cb3d.png)
+ 
+* Most users responded positively to the ‘Home’ page explaining it was easy to use and they would be likely to use this as a central place to get updates from the platform
+* Some said they may use this daily as a way to keep an eye on activity as they do their morning sweep of emails etc.
+* However some users, particularly the ‘Collaborative decision makers’ and ‘Scepticalcollaborators’ said realistically they are too busy to ‘browse’ the platform in this way and would still need a prompt to visit the platform. They felt they would be more likely to access the platform from email updates instead
+* Some felt the Home page appeared functional and could benefit from a graphic or picture to make it more visual
 
