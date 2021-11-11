@@ -16,4 +16,15 @@ A histogram showing the distribution of the amount of items per workspace that h
 
 ![image](https://user-images.githubusercontent.com/9471595/138882249-55f4a63e-cb30-4313-a50f-bce3395c9b52.png)
 
-It is not yet possible to report on the number of different Teams and workspace has, but this is being developed.
+## Update 11 Nov 2021
+
+Following the implementation of enhanced reporting, we now have some additional information. These data was taken from the platform up to the 11th November 2021.
+
+- 65% of the platform's workspaces (1,679) do not use Teams to manage content permissions on their workspace
+- 8% of the platform's workspaces use more than 10 Teams to manage their content permissions.
+
+A histrogram showing the distribution of the use of Teams by workspace is shown below
+
+![image](https://user-images.githubusercontent.com/9471595/141339787-63e9ad49-4ff7-400b-b638-d0ac04d5cb76.png)
+ 
+
