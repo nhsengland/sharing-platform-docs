@@ -1,21 +1,51 @@
 ## Health & Care Sector - Survey Results
 
-### Introduction (Place Holder)
+### Research Goals
+- Build evidence-based personas.
 
+The survey helped us identify:
+- What are the attitudes and behaviours towards collaboration
+- How essentialcollaboration is as part of someone's role
+- How often people need/choose to collaborate and what tools do they use
+- Barriers to collaboration
+- Accessibilty needs, and
+- Digital access and literacy.
+
+### Method
+21 question survey run for 2 weeks from 21 July
+
+### Outcome
+306 responses from both NHS and non-NHS staff working in the Health and social care sector
+
+### Findings
+#### 1st section: About you
+We wanted to understand the audience our services are reaching. 
+
+- 85% of the respondents work within NHS
 
 ![image](https://user-images.githubusercontent.com/84839501/141299770-9237f65a-d109-4702-b1cc-68fca1126433.png)
 
-![image](https://user-images.githubusercontent.com/84839501/141299791-b1aa4ce3-4f01-4a25-8026-434422144803.png)
+- 40% of the respondents work at Mid-level roles
+- 52% of the respondents work at Senior-level or Specialist roles
 
 ![image](https://user-images.githubusercontent.com/84839501/141299821-c73c8092-9cee-4cb5-a57e-aa44ebb90d1c.png)
 
 ![image](https://user-images.githubusercontent.com/84839501/141299841-97c92bf3-73c9-45c2-866a-6fda841d716f.png)
 
 ![image](https://user-images.githubusercontent.com/84839501/141299865-3dc0a1ef-3e1a-4ed5-a2bf-08b5e0af3826.png)
+---
+#### 2nd section: Inclusivity
+We want to make sure our services are accessible and inclusive. We wanted to learn about people's needs and digital usage, so that we make sure they are working for everyone.
+
+- 12% of the respondents have disablity, impairment, or digital accessibility needs
 
 ![image](https://user-images.githubusercontent.com/84839501/141299890-4e53a7d8-930f-436e-b744-7ec167d9b452.png)
 
+- 17% of the respondents some sort of assistive technologies, tools, or adjustments.
+
 ![image](https://user-images.githubusercontent.com/84839501/141299944-4cf30c66-4153-438c-9b22-9797cb10aad3.png)
+
+- 25% of the respondents use a shared laptop or desktop
 
 ![image](https://user-images.githubusercontent.com/84839501/141299982-6af52060-67af-449c-a452-bc086ad5fbf7.png)
 
@@ -23,7 +53,13 @@
 
 ![image](https://user-images.githubusercontent.com/84839501/141300033-f671a2fc-d411-4788-b57c-8f02d9585061.png)
 
+- Almost 70% of the respondents are confident using the internet and digital services
+- 13% replied that they have some basic digital skills
+
 ![image](https://user-images.githubusercontent.com/84839501/141300095-6a958cea-8f04-447f-be17-74dfb3ed5864.png)
+---
+#### 3rd section: Collaboration
+Learn about the ways people collaborate both within and outside of their teams or departments. When we refer to collaboration we're interested in any kinds of conversations, meetings or activities that take place between individuals, and the methods used to do this.
 
 ![image](https://user-images.githubusercontent.com/84839501/141300133-ae2934dd-9434-41ab-8f9a-102934e6056c.png)
 
