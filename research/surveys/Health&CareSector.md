@@ -76,7 +76,9 @@ Learn about the ways people collaborate both within and outside of their teams o
 
 ![image](https://user-images.githubusercontent.com/84839501/141300314-11590563-1d9d-4c48-b561-4c5bfa0e34dc.png)
 
-### Collaboration
+### Why collaboration is important to your role?
+
+#### Top Themes
 
 - Better patient outcomes
 - Sharing of ideas, learnings, and good practice to foster innovation and transformation
@@ -87,7 +89,9 @@ Learn about the ways people collaborate both within and outside of their teams o
 
 ![image](https://user-images.githubusercontent.com/84839501/144417753-bfd40d1c-0fca-4dc1-8074-77b8fa7355cf.png)
 
-### Barriers
+### Barriers associated with collaboration
+
+#### Top Themes
 
 - Lack of time 
 - Lack of resources (staff, connection, right equipment)
