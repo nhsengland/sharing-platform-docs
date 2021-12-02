@@ -32,7 +32,8 @@ We wanted to understand the audience our services are reaching.
 
 ![image](https://user-images.githubusercontent.com/84839501/141299841-97c92bf3-73c9-45c2-866a-6fda841d716f.png)
 
-![image](https://user-images.githubusercontent.com/84839501/141299865-3dc0a1ef-3e1a-4ed5-a2bf-08b5e0af3826.png)
+![image](https://user-images.githubusercontent.com/84839501/144417412-62e92f54-e2e0-4353-ba32-aabe60d3a22c.png)
+
 ---
 #### 2nd section: Inclusivity
 We want to make sure our services are accessible and inclusive. We wanted to learn about people's needs and digital usage, so that we make sure they are working for everyone.
@@ -75,4 +76,25 @@ Learn about the ways people collaborate both within and outside of their teams o
 
 ![image](https://user-images.githubusercontent.com/84839501/141300314-11590563-1d9d-4c48-b561-4c5bfa0e34dc.png)
 
+### Collaboration
 
+- Better patient outcomes
+- Sharing of ideas, learnings, and good practice to foster innovation and transformation
+- Multi-disciplinary and diverse teams can better solve complex issues
+- Avoid duplication and offer more effective services to patients
+- Deliver effectively the Long Term Plan
+- Work towards a common goal with a range of stakeholders across Health and social care organisations to deliver better integrated care
+
+![image](https://user-images.githubusercontent.com/84839501/144417753-bfd40d1c-0fca-4dc1-8074-77b8fa7355cf.png)
+
+### Barriers
+
+- Lack of time 
+- Lack of resources (staff, connection, right equipment)
+- Lack of confidence in using technology
+- New technologies that aren’t tried, tested, and secure
+- Struggles with sharing information with external organisations
+- IT systems not being compatible-Differences in software and applications across organisations
+- Governance/IG protocols
+- Breaking down silos across organisations is challenging
+- Engagement levels are not always what they should be-especially now that everything is virtual
