@@ -2,7 +2,7 @@
 
 ## User Interviews
 Below are links to qualitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
-- [24 Nov 2021](/research/interviews/user-research-20211124.md) - Interviews on **permissions*
+- [24 Nov 2021](/research/interviews/user-research-20211124.md) - Interviews on **permissions**
 - [21 Sep 2021](/research/interviews/user-research-20210921.md) - Interviews on **segmentation** and **persona validation**
 - [3 Aug 2021](/research/interviews/user-research-20210803.md) - Interviews on use of **kahootz workspace homepage** and **Managers Wireframes**
 - [9 June 2021](/research/interviews/user-research-20210609.md) - Interviews on use of **permissions** and **notifications**
