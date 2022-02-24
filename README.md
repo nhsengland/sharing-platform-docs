@@ -11,7 +11,7 @@ To learn more FutureNHS visit https://future.nhs.uk/
 ## Setup
 To setup your development environment you will need
 - [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-- [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
+- [.NET Framework 4.8 Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 - [SQL Server 2019 Developer](https://www.microsoft.com/en-gb/sql-server/sql-server-downloads)
 - [Git](https://git-scm.com/)
 - [Node.js® v14](https://nodejs.org/en/)
