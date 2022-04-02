@@ -1,4 +1,4 @@
-# FutureNHS Sharing Platform Open Documentation
+# FutureNHS Open Documentation
 This repository contains open documentation related to the research, design and build of the new FutureNHS sharing platform!
 
 # What is FutureNHS?
