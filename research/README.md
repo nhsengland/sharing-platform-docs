@@ -1,6 +1,6 @@
 # Research
 
-## Persona's
+## Personas
 
 ## User Interviews
 Below are links to qualitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
