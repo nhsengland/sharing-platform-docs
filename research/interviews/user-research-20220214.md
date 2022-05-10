@@ -14,7 +14,7 @@
 - Thoughts on existing notifications on Kahootz
 
 ### Reviewing notification designs
-- Series of designs were shared to reflect a core notifications journey as well as alternative locations and appearances. These can all be found in the appendix
+- Series of designs were shared to reflect a core notifications journey as well as alternative locations and appearances.
 
 ### Methodology
 - For this round of research we used a remote moderated one-to-one user research methodology.
@@ -26,14 +26,14 @@
 - 2 x members
 - 8 x managers 
 - Including 1 x mobility impaired user using Dragon software and 2 x dyslexic users
-- 
+
 ![image](https://user-images.githubusercontent.com/84839501/165292313-61c12d5e-b1b4-4490-95e9-9fe42167ea83.png)
 
 ### Summary Findings
 
 #### Notifications were considered essential, and the new designs were seen as an improvement 
-- For both managers and members, receiving key updates on changes or activityon the platform was considered essential
-- Most felt email was the best way to be initially  alerted of changes but felt it was not necessary to receive individual emails for every update. Most criticised Kahootzfor the volume and vagueness of emails they received
+- For both managers and members, receiving key updates on changes or activity on the platform was considered essential
+- Most felt email was the best way to be initially  alerted of changes but felt it was not necessary to receive individual emails for every update. Most criticised Kahootz for the volume and vagueness of emails they received
 - Most were unaware in-platform notifications existed on the Kahootz platform, and those who were felt they were too generic
 - Overall users responded positively to new designs for notifications, commenting that the look and feel was a big improvement on the new platform and made it more user friendly
 - They particularly liked the idea of having a single page where they could view all notifications as a manager and member and some explained they may be less dependent on email if this was available
