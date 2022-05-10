@@ -1,4 +1,4 @@
-# 1. Supported browsers
+# 0004. Supported browsers
 
 Date: 2021-05-21
 
@@ -18,29 +18,30 @@ Microsoft Internet Explorer has reached end-of-life in the Microsoft Lifecycle P
 
 Shown below are the list of browsers we intend to test our application with:-
 
-Windows
+### Windows
 
 - Edge (latest versions)
 - Google Chrome (latest versions) 
 - Mozilla Firefox (latest versions) 
 
-MacOS
+### MacOS
 
 - Safari 12 and later 
 - Google Chrome (latest versions) 
 - Mozilla Firefox (latest versions) 
 
-iOS
+### iOS
 
 - Safari for iOS 10.3 and later 
 - Google Chrome (latest versions)
 
-Android
+### Android
 
 - Google Chrome (latest versions)
 - Samsung Internet (latest versions)
 
-Current FutureNHS usage breakdown by device:
+
+### Current FutureNHS usage breakdown by device:
 
 - Desktop: 82.89%
 - Tablet: 9.8%

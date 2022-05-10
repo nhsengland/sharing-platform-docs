@@ -55,6 +55,13 @@ In the same open-source spirit we adopted for the components, we have also endea
 - [TinyMCE](https://github.com/tinymce)
 - [WireMock.NET](https://github.com/WireMock-Net/WireMock.Net)
 - [PactNet](https://github.com/pact-foundation/pact-net)
+- [Azurite](https://github.com/Azure/Azurite)
+- [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
+- [App Insights and AzMonitor SDK](https://github.com/microsoft/ApplicationInsights-dotnet)
+- [Jest](https://github.com/facebook/jest)
+- [IstanbulJS](https://github.com/istanbuljs/istanbuljs)
+- [Jest-JUnit](https://github.com/jest-community/jest-junit)
+- [MIME-Detective](https://github.com/Muraad/Mime-Detective)
 
 ## Change process and approvals
 

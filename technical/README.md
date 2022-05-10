@@ -13,3 +13,4 @@
 - [Governance](./governance)
 - [Testing](./testing)
 - [Working with Sealed Secrets](./sealed-secrets)
+- [Source Control](/.source-control)

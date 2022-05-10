@@ -1,4 +1,4 @@
-# 2. Feature flags
+# 0002. Feature flags
 
 Date: 2021-04-27
 
