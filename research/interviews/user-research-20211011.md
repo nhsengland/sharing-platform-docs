@@ -30,9 +30,11 @@ Personas take that information and bring the typologies to life with scenarios a
 ![image](https://user-images.githubusercontent.com/84839501/171212508-514d788c-e98c-4f50-87b1-547f77bb1395.png)
 
 
+
 ## The Collaboration Explorer
 
 ![image](https://user-images.githubusercontent.com/84839501/171212859-82876c8e-3cbd-4858-86b8-4e24c72b8f10.png)
+
 
 
 ## The Collaborative Decision Maker
@@ -40,14 +42,17 @@ Personas take that information and bring the typologies to life with scenarios a
 ![image](https://user-images.githubusercontent.com/84839501/171212998-a28b100c-a4be-4bf5-a8ea-f0f9a6a4d6b3.png)
 
 
+
 ## The Sceptical Contributor
 
 ![image](https://user-images.githubusercontent.com/84839501/171213248-c9153f48-035a-48e6-9987-d93fc0708310.png)
 
 
+
 ## The Content Consumer
 
 ![image](https://user-images.githubusercontent.com/84839501/171213604-6c47bd14-d69b-44d8-b360-12940c520346.png)
+
 
 
 ## Personas
