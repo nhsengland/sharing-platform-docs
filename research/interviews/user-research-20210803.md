@@ -55,7 +55,7 @@ We interviewed 2 members who used the platform to keep up to date and share info
 
 ## Kahootz Workspace Homepage – Creating & Editing Content
 
-### Most managers felt the editing process was straightforward due to familiarity, but most had frustrations
+- Most managers felt the editing process was straightforward due to familiarity, but most had frustrations
 ![image](https://user-images.githubusercontent.com/84839501/139663513-e24f944d-c20f-43f6-8597-0ff4ae5e41fc.png)
 ![image](https://user-images.githubusercontent.com/84839501/139663522-8493f41f-be72-4ba8-84cb-229224776de7.png)
 ![image](https://user-images.githubusercontent.com/84839501/139663531-fd0b1a9a-2311-4ce2-8c81-bf62bf21a9c9.png)
@@ -97,7 +97,7 @@ Less used features, with many explaining they were unsure what these were or wou
 
 ## Kahootz Workspace Homepage - Opportunities
 
-### Some managers mentioned additional features they felt would add value to their homepage
+- Some managers mentioned additional features they felt would add value to their homepage
   
 Some managers mentioned additional features or functionality they wanted to be able to add to their workspace homepage, these included:  
 ![image](https://user-images.githubusercontent.com/84839501/139663866-7696604a-68af-4ab1-8bd2-87d8a9b64f9c.png)
@@ -107,7 +107,7 @@ Some managers mentioned additional features or functionality they wanted to be a
 
 ## Stakeholder – Kahootz Workspace Homepages
 
-### Stakeholders shared the real variety of workspace homepage designs due to flexibility on the current platform, through acknowledged this creates challenges
+- Stakeholders shared the real variety of workspace homepage designs due to flexibility on the current platform, through acknowledged this creates challenges
 ![image](https://user-images.githubusercontent.com/84839501/139663883-0ba1d02f-870c-4dbd-b142-c5a80d3d7cc9.png)
   
 * Stakeholders informed us that there is a real variety of use cases for workspaces homepages. This is possibly due to the flexibility and ‘free reign’ that managers have at the moment
@@ -119,7 +119,8 @@ Some managers mentioned additional features or functionality they wanted to be a
 
 ## Members – Kahootz – Getting Started & Workspace Homepage
 ### Kahootz – Getting Started * Workspace Homepage
-#### Members use of workspace homepages was limited as they were usually directed to updates or content from email notifications
+
+- Members use of workspace homepages was limited as they were usually directed to updates or content from email notifications
 ![image](https://user-images.githubusercontent.com/84839501/139663996-1f1ee017-9006-427b-8457-934eb30a81e5.png)
   
 *	Members did not naturally engage with the workspace homepage when getting started or accessing the platform. They explained they usually accessed content directly form an email notification
@@ -130,7 +131,8 @@ Some managers mentioned additional features or functionality they wanted to be a
 ## Managers - Wireframes
 
 ### Wireframes – Choosing a template
-#### Most understood they must choose a template to proceed, though some wanted additional examples or explanations to help them choose
+
+- Most understood they must choose a template to proceed, though some wanted additional examples or explanations to help them choose
 ![image](https://user-images.githubusercontent.com/84839501/139664040-54c06f60-431f-499a-be90-4929ac452f2b.png)
   
 *	Most managers understood what they were required to do at this point, and got started by reviewing the options and deciding which would be most appropriate for them
@@ -147,7 +149,8 @@ Some managers mentioned additional features or functionality they wanted to be a
 *	Some with smaller or newer workspaces explained they would not choose the Stream/Feed or Discussion first templates as there was not enough activity on their workspace
 
 ## Wireframes – Choosing a template – Quantitative Test
-#### 61% of managers chose the ‘Content blocks’ template due to more flexibility and opportunities to customise
+
+- 61% of managers chose the ‘Content blocks’ template due to more flexibility and opportunities to customise
 ![image](https://user-images.githubusercontent.com/84839501/139665684-985b8bb5-9af3-43bf-985f-4bbf11c480e1.png)
 
 28 managers took part in the quantitative test
@@ -243,7 +246,7 @@ When presented with the four template options:
 
 ### Wireframes – Response to designs
 
-### Both members preferred the Content Blocks Layout as it allowed them to see and access a variety of content
+- Both members preferred the Content Blocks Layout as it allowed them to see and access a variety of content
 ![image](https://user-images.githubusercontent.com/84839501/139667038-d305a08d-1287-4afb-a7bc-468574182212.png)
 
 *	Out of the two members we reviewed designs with
@@ -252,7 +255,7 @@ When presented with the four template options:
 
 ## Wireframes – Response to designs – Quantitative Test
 
-### 77% of members chose the ‘Content Blocks’ design due to it providing more navigational options and seeming most ‘user friendly’
+- 77% of members chose the ‘Content Blocks’ design due to it providing more navigational options and seeming most ‘user friendly’
   
 36 members took part in the quantitative test
 
