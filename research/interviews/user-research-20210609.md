@@ -6,27 +6,34 @@ The focus of this research was to build an understanding of current usage of Per
 * Using notifications (members & time allowing for managers)
 The activities we asked users to perform on early wireframes were:
 * Using in-platform notifications
+
 ## Methodology
 For this round of research we used a remote moderated one-to-one user research methodology. The sessions were conducted via video conference and screen sharing meeting on Teams, and participants joined from their desktop. The moderator and participant could see and hear each other in order to conduct the interview. Chat functionality allowed the moderator to provide instructions, and links to the wireframes. Participants accessed the platform & wireframes on their desktop and shared their screen. The moderator was able to see the participant’s screen and used concurrent think aloud (CTA) to understand their behaviour and asked interview questions.
+
 ## User background
 We interviewed 2 members who used the platfrom to keep up to date and share information across organisations.
 We interviewed 4 workspace managers with varying levels of experience, who use the platform to enable sharing and manage and edit content.
+
 ## Summary
 ### Permissions
 * Managers felt permissions on the platform worked well, allowing them to restrict and grant access in a way that was more straightforward compared to other platforms.
 * Some had difficulty navigating to and around permissions due to the duplication of and confusion between options.
 * Managers are using teams as a way to restrict areas to certain members but also to setup and view ‘test’ areas of their site in the absence of ‘preview’ functionality.
+
 ### Manager notifications
 * Few managers had set notifications for their workspace.
 * Managers were unaware or felt uncomfortable with the fact that notification settings they enforce will override those chose by the user.
 * Due to a combination of this discomfort and also a lack of understanding of the notification options available, most managers had created their own means to provide key updates to members.
+
 ### Receiving notifications
 * Members relied heavily on email notifications as a way to keep up to date with their workspaces, and when asked explained they had not noticed the option to review notifications in-platform.
 * Managers also relied heavily on emails as an initial prompt to access the platform, but would then use in-platform notifications to check new and outstanding updates.
 * Users felt more could be done in emails and in-platform to help differentiate between notifications  from different workspaces and content type.
+
 ### Wireframes
 * All preferred the new designs for notifications, as options were more visible and easier to navigate.
 * They likened the designs to Social Media explaining the familiarity made them straightforward to use.
+
 ## Permissions (managers only)
 ### Workspace permissions
 **Managers had a good understanding of the workspace permissions available but some felt additional options would be useful**
