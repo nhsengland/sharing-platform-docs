@@ -127,7 +127,8 @@ We interviewed 9 users:
 ## Design Validation – Groups
 
 ### My Groups – Initial Understanding & Latest Activity
-#### Most Users understood where they were on the platform and how to navigate to different areas within ‘My Groups’
+
+- Most Users understood where they were on the platform and how to navigate to different areas within ‘My Groups’
 ![image](https://user-images.githubusercontent.com/84839501/139684606-3ff81fe2-f6c4-4d3a-8a5a-efddaa97ba8a.png)
 
 *	When arriving on the ‘My Groups’ page most users understood this was an area dedicated to the groups they were a member of and that the ‘Latest activity’ feed was pulling recent content from their groups
@@ -135,7 +136,8 @@ We interviewed 9 users:
 *	Users understood  they could  navigate to different areas using the tabs and had a good understanding of what ‘Favourites’, ‘All my groups’,  and  ‘Discover  New  groups’  would  include Kahootz Workspace Homepage – Creating & Editing Content
 
 ### My Groups – Latest Activity
-#### Most understood the ‘Lates activity’ feed, though some were unsure what the colours related to and how they had been ordered
+
+- Most understood the ‘Lates activity’ feed, though some were unsure what the colours related to and how they had been ordered
 ![image](https://user-images.githubusercontent.com/84839501/139688980-1e1d727a-a1cc-46d0-86a6-ab426960436a.png)
 
 *	Most  reacted  positively  to  the  ‘Latest  activity’  page,  explaining  it  was useful to see updates relevant to them, though two users (one ‘traditionalist’  and  one  ‘decision  maker ’) said they would be unlikely to browse this page as they felt they could get lost ‘down a rabbit hole’ so would prefer to visit their groups directly or use the direct link from their email notifications
@@ -146,7 +148,8 @@ We interviewed 9 users:
 *	Some commented on the fact that updates were not in order as some from 1 hour ago were appearing after updates from 3 hours ago, they said they expected these to be in chronological order
 
 ### My Groups – Favourites
-#### Most liked to see a ‘Favourites’ section and had a good understanding of how this section would work
+
+- Most liked to see a ‘Favourites’ section and had a good understanding of how this section would work
 ![image](https://user-images.githubusercontent.com/84839501/139689053-77011206-d536-4727-8126-2c2f24399ac3.png)
 
 *	Although unable to click on favourites, users expected this to be an area where there favourited groups would appear.  Most felt this would be a useful feature and page, allowing them quick access to their most used groups
@@ -167,7 +170,8 @@ We interviewed 9 users:
 *	One user felt the descriptions and graphics took up too much space and they would find it frustrating having to scroll past these every time
 
 ### My Groups – All my Groups
-#### Users understood they were being presented with ‘recommended’ groups an felt this was useful to help broaden their network
+
+- Users understood they were being presented with ‘recommended’ groups an felt this was useful to help broaden their network
 ![image](https://user-images.githubusercontent.com/84839501/139689208-b7b799de-4726-4fd5-be07-c7015a88c46b.png)
 
 *	When arriving in ‘Discover new groups’ users understood this was where they would be able to find new groups
@@ -177,7 +181,8 @@ We interviewed 9 users:
 *	Response to the ‘A-Z’  page  was  mixed,  some  felt  this  was  a  useful repositor y they could browse if they weren’t sure what they were looking for, but most felt this would be too time-consuming  to browse so they would search instead
 
 ### My Groups – All my Groups
-#### Users understood they were being presented with ‘recommended’ groups and felt this was useful to help broaden their network
+
+- Users understood they were being presented with ‘recommended’ groups and felt this was useful to help broaden their network
 ![image](https://user-images.githubusercontent.com/84839501/139689260-e148a8a2-a660-4b7c-bf92-7de50f5a8d41.png)
 
 *	When arriving in ‘Discover new groups’ users understood this was where they would be able to find new groups
@@ -186,7 +191,7 @@ We interviewed 9 users:
 *	Users did not naturally interact with the ‘A-Z of groups’ as they said they would usually use the search bar if they had a specific group or topic in mind
 *	Response to the ‘A-Z’  page  was  mixed,  some  felt  this  was  a  useful repositor y they could browse if they weren’t sure what they were looking for, but most felt this would be too time-consuming  to browse so they would search instead
 
-#### Most would use search when looking for a specific topic or group, but some were confused about the results or filters shown
+- Most would use search when looking for a specific topic or group, but some were confused about the results or filters shown
 ![image](https://user-images.githubusercontent.com/84839501/139689325-d496e46f-e466-4381-ab86-de44aad2062b.png)
 
 *	Most responded positively to the search bar, particularly the way that suggestions appeared to help prompt their search
@@ -198,7 +203,8 @@ We interviewed 9 users:
 *	Before joining a group, some users explained they would try to click on the group hoping to see more information that would help inform their decision to join
 
 ### My Groups – Overall and ‘Groups’ language
-#### Overall users felt ‘My groups’ was an improvement on the current platform and felt ‘Groups’ was more appropriate than ‘workspace.
+
+- Overall users felt ‘My groups’ was an improvement on the current platform and felt ‘Groups’ was more appropriate than ‘workspace.
 ![image](https://user-images.githubusercontent.com/84839501/139689594-b28b4077-1432-4e4c-a3e5-94c06372ad9b.png)
 
 *	Overall users felt the ‘Groups’ section was a clean and easy to navigate, making it much easier and more user friendly to view and manage their groups when compared to the ‘drop-down’ on the current Kahootz platform
@@ -206,7 +212,8 @@ We interviewed 9 users:
 *	Most preferred the name ‘Groups’ over ‘Workspaces’ as they felt this better described their purpose, as a networking group, similar to a group on social media. They felt ‘workspaces’ were more formal and had negative connotations with ‘extra work’
 
 ### Files & Folders - Initial Impressions & Add folder
-#### Users thought the section appeared as they expected and understood how to get started acessing existing or adding new folders
+
+- Users thought the section appeared as they expected and understood how to get started acessing existing or adding new folders
 ![image](https://user-images.githubusercontent.com/84839501/141293527-7358387c-fa87-4d6a-ac58-2013783890a4.png)
 
 * Most users reacted positively to the ‘Files’ section. They understood they would have accessed this from the ‘Files’ tab within the group navigation and explained it looked as they expected with a clear design & layout
@@ -216,7 +223,8 @@ We interviewed 9 users:
 * Some were surprised that there did not seem to be the option to add folders within folders. Although some said this may be ok as it would encourage them to create better folder structures, others felt this functionality was important to create sub areas for their workspace
 
 ### Files & Folders - Adding & Viewing Files
-#### Users were able to upload a file with ease but wanted to see additional detail and functionality when viewing files in a folder
+
+- Users were able to upload a file with ease but wanted to see additional detail and functionality when viewing files in a folder
 ![image](https://user-images.githubusercontent.com/84839501/141293696-2091000c-6b01-4596-8684-492abfa66b34.png)
 
 * Users felt it was clear and straightforward to upload a file
@@ -228,7 +236,8 @@ We interviewed 9 users:
 * One manager explained that being able to display files in a grid rather than a list had worked well to aid navigation on their current workspace and they would like to see a similar option here
 
 ### Files & folders –Adding & viewing files
-#### Users felt there was an unnecessary step when viewing files and expected to see additional versioning options to support collaboration
+
+- Users felt there was an unnecessary step when viewing files and expected to see additional versioning options to support collaboration
 ![image](https://user-images.githubusercontent.com/84839501/141293863-99964afe-d83c-4ff5-b27d-08d8ddcbc025.png)
 
 * When going to view a file, users clicked on one of the name links, but explained they thought this would take them directly to the file preview so were surprised when this took them to the File Description page. Some said this felt like an unnecessary extra step
@@ -237,7 +246,8 @@ We interviewed 9 users:
 * Users did not usually notice the in-page link to return them to the folder, instead using the main breadcrumb or browser back button. They felt this may be more obvious if more levels were shown and they had named the folder themselves
 
 ### Files & folders – Overall
-#### Overall users felt that adding and viewing files and folders was straightforward but expected to see additional options around editing & permissions
+
+- Overall users felt that adding and viewing files and folders was straightforward but expected to see additional options around editing & permissions
 ![image](https://user-images.githubusercontent.com/84839501/141294130-8ffdc09c-f89b-4033-9df6-0bc7240b016c.png)
 
 * There was some concern that permissions had not been considered in the new designs. When creating folders and uploading files, some users explained they would like to see options to restrict access, particularly when dealing with sensitive content
@@ -246,7 +256,8 @@ We interviewed 9 users:
 ## Design Validation - Forums
 
 ### Forums –understanding & initial impressions
-#### Some were initially unsure where they were on the platform, but felt the forum page appeared clear and familiar
+
+- Some were initially unsure where they were on the platform, but felt the forum page appeared clear and familiar
 ![image](https://user-images.githubusercontent.com/84839501/141294330-e7efe58f-123b-4f44-a379-4f8e355e6a7d.png)
 
 * When arriving on the Forums page, some were unsure where abouts they were on the platform. Most were able to work this out using the breadcrumb but this raised confusion as to whether forums always sat within a group or within the Forums tab in the main left-hand navigation
@@ -254,7 +265,8 @@ We interviewed 9 users:
 * Users felt the ‘Latest discussion’ page was clear and understood they could either choose a discussion to view it or start a new discussion
 
 ### Forums –start a new discussion 
-#### Users understood how to start a new discussion but questioned some of the fields and options
+
+- Users understood how to start a new discussion but questioned some of the fields and options
 ![image](https://user-images.githubusercontent.com/84839501/141294426-373e12d2-af95-4083-ae0f-768219364449.png)
 ![image](https://user-images.githubusercontent.com/84839501/141294434-bfe03a8a-a6b1-4fcc-88e3-2b4a5e02e286.png)
 
@@ -266,7 +278,8 @@ We interviewed 9 users:
 * Users were unsure on the order discussions appeared in as these did not seem to be chronological. They expected to have the option to sort in a way that was most meaningful to them such as most recent or most liked
 
 ### Forums –viewing a discussion post
-#### There was some confusion around the order in which comments appeared and the way replies are presented in a thread
+
+- There was some confusion around the order in which comments appeared and the way replies are presented in a thread
 ![image](https://user-images.githubusercontent.com/84839501/141294585-215d7cc8-d0fa-4077-bcee-261e4f6e6903.png)
 ![image](https://user-images.githubusercontent.com/84839501/141294594-30593639-473e-4137-ab2b-7315911c14c5.png)
 
@@ -277,7 +290,8 @@ We interviewed 9 users:
 * Users liked the options to format their comment, though one user suggested also having the option to reply privately as they may not always want to ask a question or respond publicly
 
 ### Forums –overall
-#### Overall users felt the designs were more user friendly and easier to navigate compared to the current platform
+
+- Overall users felt the designs were more user friendly and easier to navigate compared to the current platform
 ![image](https://user-images.githubusercontent.com/84839501/141294684-d5afa07f-f177-4762-aac0-364400e2da71.png)
 
 * Overall users commented that the new forum designs seemed user friendly and easier to navigate compared to the current Kahootz platform
@@ -285,7 +299,8 @@ We interviewed 9 users:
 ## Design Validation - User Dashboard
 
 ### User dashboard –initial impressions & favourites
-#### Most understood they were on the ‘Home’ page and liked to see a page personalised to their activity
+
+- Most understood they were on the ‘Home’ page and liked to see a page personalised to their activity
 ![image](https://user-images.githubusercontent.com/84839501/141294824-39b8a7b7-5d0d-4c14-83a2-fdc647ee1bca.png)
 
 * Most users had a good understanding of where they were on the platform when arriving on this page and described it as their ‘homepage’
@@ -295,7 +310,8 @@ We interviewed 9 users:
 * One user suggested grouping favourites so that groups appear together, discussions appear together etc.
 
 ### User dashboard –‘Here’s what’s happening’
-#### Most were unsure what content was showing under ‘Recent activity’ and felt ‘Discover groups’ was a duplication od the groups section
+
+- Most were unsure what content was showing under ‘Recent activity’ and felt ‘Discover groups’ was a duplication od the groups section
 ![image](https://user-images.githubusercontent.com/84839501/141294961-fec4b321-db7f-47a6-a36b-d2cf6a3a2069.png)
 ![image](https://user-images.githubusercontent.com/84839501/141294965-1d494fcb-6825-49a2-a167-c5863bb1adb0.png)
 
@@ -307,7 +323,8 @@ We interviewed 9 users:
 * Some were unsure whether this would include content from groups they are a member of or not. To add value they felt this would have to include content from groups they were not a member of, but acknowledged this may be complicated by permissions
 
 ### User dashboard –‘Here’s what’s happening’ – Bookmarks
-#### Users were initially confused by Bookmarks and were unsure how these would be different to favourites
+
+- Users were initially confused by Bookmarks and were unsure how these would be different to favourites
 ![image](https://user-images.githubusercontent.com/84839501/141295096-b43c625f-dd94-4f11-95aa-da5cb5ef4520.png)
 
 * Most users were initially confused by ‘Bookmarks’ and struggled to understand how these would be different to Favourites. They felt just one or the other was necessary
@@ -318,7 +335,8 @@ We interviewed 9 users:
 * Users were unsure how they would add bookmarks, as they only recalled seeing a star icon on content throughout the platform
 
 ### User dashboard – Overall
-#### Although most responded positively to ‘Home’ as a central place to view content, others felt they would not get the time to use this
+
+- Although most responded positively to ‘Home’ as a central place to view content, others felt they would not get the time to use this
 ![image](https://user-images.githubusercontent.com/84839501/141295177-aa12c628-5f20-4cdf-b6a7-351627f4cb3d.png)
  
 * Most users responded positively to the ‘Home’ page explaining it was easy to use and they would be likely to use this as a central place to get updates from the platform
