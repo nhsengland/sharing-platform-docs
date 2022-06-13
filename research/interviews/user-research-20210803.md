@@ -41,6 +41,7 @@ We interviewed 2 members who used the platform to keep up to date and share info
 ## Managers - Kahootz Workspace Homepage
 
 ### Kahootz Workspace homepage – organisation & design decisions
+
 ![image](https://user-images.githubusercontent.com/84839501/139662965-51c5f23d-8f82-4421-8e67-38cb66613d0f.png)
 *	Not all managers were responsible for the Workspace Homepage as they sometimes only managed a subsection of a workspace, though all had some responsibility to manage and edit pages
 *	Most managers had organised their homepage according to what they believed were the most used or priority areas for members
@@ -99,7 +100,8 @@ Less used features, with many explaining they were unsure what these were or wou
 
 - Some managers mentioned additional features they felt would add value to their homepage
   
-Some managers mentioned additional features or functionality they wanted to be able to add to their workspace homepage, these included:  
+- Some managers mentioned additional features or functionality they wanted to be able to add to their workspace homepage, these included: 
+
 ![image](https://user-images.githubusercontent.com/84839501/139663866-7696604a-68af-4ab1-8bd2-87d8a9b64f9c.png)
 
 *	Contact information for regional leads
@@ -108,6 +110,7 @@ Some managers mentioned additional features or functionality they wanted to be a
 ## Stakeholder – Kahootz Workspace Homepages
 
 - Stakeholders shared the real variety of workspace homepage designs due to flexibility on the current platform, through acknowledged this creates challenges
+- 
 ![image](https://user-images.githubusercontent.com/84839501/139663883-0ba1d02f-870c-4dbd-b142-c5a80d3d7cc9.png)
   
 * Stakeholders informed us that there is a real variety of use cases for workspaces homepages. This is possibly due to the flexibility and ‘free reign’ that managers have at the moment
@@ -121,6 +124,7 @@ Some managers mentioned additional features or functionality they wanted to be a
 ### Kahootz – Getting Started * Workspace Homepage
 
 - Members use of workspace homepages was limited as they were usually directed to updates or content from email notifications
+
 ![image](https://user-images.githubusercontent.com/84839501/139663996-1f1ee017-9006-427b-8457-934eb30a81e5.png)
   
 *	Members did not naturally engage with the workspace homepage when getting started or accessing the platform. They explained they usually accessed content directly form an email notification
@@ -142,6 +146,7 @@ Some managers mentioned additional features or functionality they wanted to be a
 *	Managers wanted to understand how rigid these templates were and whether they would be able to still add other types of content, especially if later down the line the scope of their workspace changed. They were afraid they may have to start again from scratch
 
 #### 5 out of & managers would choose the ‘Content Block’ template due to flexibility
+
 ![image](https://user-images.githubusercontent.com/84839501/139664086-582cb301-0e0c-4ebc-bc2e-c93d9fbe52f0.png)
 
 *	Out of the 7 managers who saw the template options, 5 opted for the ‘Content blocks options’ due to the perceived flexibility allowing them to include different types of content, and many explaining this seemed similar to the current setup on Kahootz
@@ -151,6 +156,7 @@ Some managers mentioned additional features or functionality they wanted to be a
 ## Wireframes – Choosing a template – Quantitative Test
 
 - 61% of managers chose the ‘Content blocks’ template due to more flexibility and opportunities to customise
+
 ![image](https://user-images.githubusercontent.com/84839501/139665684-985b8bb5-9af3-43bf-985f-4bbf11c480e1.png)
 
 28 managers took part in the quantitative test
@@ -173,7 +179,9 @@ When presented with the four template options:
 ## Wireframes – Content blocks – editing the page
 
 ### Managers understood how to get started editing the page, but wanted further clarity on functionality and options
+
 ![image](https://user-images.githubusercontent.com/84839501/139664240-a127eb59-050d-4eb7-b332-c869231d4e7e.png)
+
 ![image](https://user-images.githubusercontent.com/84839501/139664246-b15d158c-b7ec-471b-8edd-6e1c0d1dfe93.png)
 
 *	Most users got started editing their page with ease and felt it was clear how they would get started editing or deleting blocks
@@ -185,6 +193,7 @@ When presented with the four template options:
 *	However most responded positively to the option to add these to the header explaining these were key areas and provides a clear entry point
 
 ### Managers liked the Introduction block, but questioned how it would appear & there was a mixed respond to the Group Summary
+
 ![image](https://user-images.githubusercontent.com/84839501/139666456-04f0d094-39fc-437d-b49f-2753eae71f68.png)
 
 *	In the Group Introduction block, users liked the fact the image was formatted for them as many had had difficulty formatting pictures on Kahootz.
@@ -194,6 +203,7 @@ When presented with the four template options:
 *	Some were also unsure whether they could link to external pages as internal pages and explained they hope they would be able to
 
 ### Some wanted to see ‘Most recent’ rather then ‘Popular’ discussions, and there were mixed views on how popular pages should be populated
+
 ![image](https://user-images.githubusercontent.com/84839501/139666502-799cfaa6-0122-42a7-b003-e7f90a810834.png)
 
 *	Although most liked being able to see a preview of discussions under ‘Popular Discussions’ which wasn’t available on the current platform, most wanted this to be ‘Most recent’ rather than ‘popular’
@@ -202,6 +212,7 @@ When presented with the four template options:
 *	Others wanted to be able to populate these themselves, based on what they thought was priority content in case it got missed further up the page
 
 ## Wireframes – Save & Preview
+
 ![image](https://user-images.githubusercontent.com/84839501/139666547-a70dde2f-837e-46b2-a77e-e6a74a5b9d55.png)
 
 *	Most users responded positively to the option to ‘Save & Preview’ page ahead of publishing as they acknowledged this was a missing feature on the current platform, and would save them having to use workarounds such as ‘Test’ pages
@@ -211,6 +222,7 @@ When presented with the four template options:
 *	One user wanted more clarity on what would happen once they published their homepage and whether they would still be able to edit it
 
 ## Wireframes – Content Blocks – Overall
+
 ![image](https://user-images.githubusercontent.com/84839501/139666607-8fb78b54-5002-4ff7-8cba-75a6a1e3261a.png)
  
 *	Overall most users felt the editing process was easier & more straightforward than the existing process on Kahootz where lots of manual editing is involved
@@ -221,6 +233,7 @@ When presented with the four template options:
 *	Some explained they could not truly understand whether this approach would work for their workspace before trying it out and understanding how they would create the content and structure behind this page
 
 ## Wireframes – Forums First
+
 ![image](https://user-images.githubusercontent.com/84839501/139666647-bbf7419f-3fae-41bf-8290-85f99fbd6d79.png)
 ![image](https://user-images.githubusercontent.com/84839501/139666654-4f87b9e1-d750-4cdc-96ea-6b68bea217b8.png)
 
@@ -233,6 +246,7 @@ When presented with the four template options:
 ## Stakeholder - Wireframes
 
 ### Wireframes – Template Response
+
 ![image](https://user-images.githubusercontent.com/84839501/139666920-4a39b67e-2bc2-4504-bafc-fb61ec46c6c1.png)
 
 *	Stakeholders explained they often get suggestions from users about being able to choose from recommended designs, so felt the templated approach was a good idea
