@@ -1,7 +1,6 @@
 # Research
 
 ## Personas
-Below are links to qualitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
 - [10 Oct 2021](/research/interviews/user-research-20211011.md) - Personas
 
 ## User Interviews
