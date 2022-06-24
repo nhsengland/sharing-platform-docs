@@ -20,15 +20,17 @@ The base platform is essentially the seamless integration of a small number of e
 
 - [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS) for management of content and custom page design
   - [Umbraco ContentAPI](https://github.com/deMD/UmbracoContentApi) for Headless API
-- [MVCForum](https://github.com/YodasMyDad/mvcforum) to add group discussions
 - [Collabora Online](https://github.com/CollaboraOnline/online) for in-browser file editing/viewing (forked off [LibreOffice](https://github.com/LibreOffice/core)).  This may be more generically referred to as the WOPI-Client in our documentation.
   - [Collabora CODE](https://www.collaboraoffice.com/code/) comes with a free license for editing up to 10 concurrent files and is available to pull down from [Docker Hub](https://hub.docker.com/r/collabora/code/)
-- [Identity Server](https://github.com/IdentityServer/IdentityServer4) for identifying 'users' and federating with trusted IdPs
+- [Azure AD B2C](https://azure.microsoft.com/en-gb/services/active-directory/external-identities/b2c/) for identifying 'users' and federating with trusted IdPs including: 
+  - [NHS England Applications/OKTA](https://www.england.nhs.uk/applications/)
+  - [NHSmail](https://support.nhs.net/knowledge-base/single-sign-on-guide/)
 - [File Server](./file-server/README.md) is an optional custom built component that implements the open [WOPI protocol](https://wopi.readthedocs.io/) (the WOPI-Host) and stores files in Azure Storage.  
   - You could swap this out with an open-source alternative such as [Next Cloud](https://github.com/nextcloud) and you can find an [open-source integration with Collabora on GitHub](https://github.com/nextcloud/richdocuments)
   - [WebDAV](https://en.wikipedia.org/wiki/WebDAV) support is earmarked for future development such that the platform can be extended to support alternate file viewing/editing clients such as Microsoft Office, although licenses permitting, you may prefer to explore an alternative WOPI-Client such as [Office Web Apps](https://www.office.com/?ms.officeurl=webapps).
 - [ElasticSearch](https://github.com/elastic/elasticsearch) to provide searchable distributed indexing
 - [Redis](https://github.com/redis/redis) to provide distributed caching
+- [Gov Notify](https://www.notifications.service.gov.uk/) for transactional emails
 
 We have (in the diagram) keep the databases of each component (where it needs one) separate.  While not strictly necessary, this approach allows these components to scale-up independently if needed.  It should be appreciated that so long as your non-functional requirements are met, it might be more appropriate for you to stand up and share a single database.
 
