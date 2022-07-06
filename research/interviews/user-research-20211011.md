@@ -25,7 +25,7 @@ The typology provides user experience information at an overview level.
 Personas take that information and bring the typologies to life with scenarios and storytelling.
 
 
-## The Active Contributor 
+## The Active Collaborator 
 
 ![image](https://user-images.githubusercontent.com/84839501/171212508-514d788c-e98c-4f50-87b1-547f77bb1395.png)
 
