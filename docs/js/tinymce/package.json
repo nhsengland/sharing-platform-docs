@@ -2,7 +2,7 @@
   "_args": [
     [
       "tinymce@5.10.2",
-      "C:\\sources\\future.nhs\\futurenhs.app"
+      "C:\\sources\\FutureNHS\\futurenhs.app"
     ]
   ],
   "_from": "tinymce@5.10.2",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/tinymce/-/tinymce-5.10.2.tgz",
   "_spec": "5.10.2",
-  "_where": "C:\\sources\\future.nhs\\futurenhs.app",
+  "_where": "C:\\sources\\FutureNHS\\futurenhs.app",
   "author": {
     "name": "Tiny Technologies, Inc"
   },
