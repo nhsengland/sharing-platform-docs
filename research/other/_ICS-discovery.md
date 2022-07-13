@@ -47,3 +47,6 @@ The outcome of this project looked to answer the following objectives:
 ## Personas 
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178721123-af139163-b41d-4395-aacf-0f2901595bbf.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178721332-dbced202-ca97-433e-92e5-4590169d55bb.png">
+
