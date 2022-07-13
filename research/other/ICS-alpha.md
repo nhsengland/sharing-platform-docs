@@ -15,3 +15,4 @@ To investigate the research objectives, Nomensa conducted 16 one-hour, one-to-on
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178760034-32dceb1d-b7cb-4ca3-b3a0-7b7dc0f01c50.png">
 
 ## Key Findings 
+
