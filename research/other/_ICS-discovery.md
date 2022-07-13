@@ -45,3 +45,5 @@ The outcome of this project looked to answer the following objectives:
 || Users sometimes struggle with notifications, access and the ability to organise | Notifications are sometimes perceived as overwhelming, inconsistent and irrelevant. Some participants did not think the platformwas accessible for those working outside of NHS. Some participants felt the name ‘FutureNHS’ excluded those working in local authorities or the third sector, andgenerally referred to the platform as ‘Futures’ |
 
 ## Personas 
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178721123-af139163-b41d-4395-aacf-0f2901595bbf.png">
