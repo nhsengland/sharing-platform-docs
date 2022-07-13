@@ -39,3 +39,19 @@ To investigate the research objectives, Nomensa conducted 16 one-hour, one-to-on
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178772307-f4232c3a-51a7-455e-88f6-926b6e430685.png">
 
 ## Final Prototype Links 
+
+#### Registration and finding group events (standard member): 
+
+https://www.figma.com/proto/s7MhR1IPZdX38Co4k4GRSv/FINAL-PROTOTYPES?node-id=1%3A3242&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3242
+
+#### My events dashboard:
+
+https://www.figma.com/proto/s7MhR1IPZdX38Co4k4GRSv/FINAL-PROTOTYPES?node-id=1%3A17815&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A17815
+
+#### Creating an event via groups (group manager):
+
+https://www.figma.com/proto/s7MhR1IPZdX38Co4k4GRSv/FINAL-PROTOTYPES?node-id=1%3A5737&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A5737
+
+#### Finding a connection on the platform:
+
+https://www.figma.com/proto/s7MhR1IPZdX38Co4k4GRSv/FINAL-PROTOTYPES?node-id=1%3A11475&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A11475
