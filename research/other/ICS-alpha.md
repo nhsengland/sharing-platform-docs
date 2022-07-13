@@ -33,3 +33,8 @@ To investigate the research objectives, Nomensa conducted 16 one-hour, one-to-on
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178771625-3ad48962-7240-48ca-bc0c-2343f3475985.png">
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178771758-80f75517-7cb0-44ac-acff-3e4b1c960798.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178772144-986dae67-f537-4daf-afff-0c0c27294d34.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178772307-f4232c3a-51a7-455e-88f6-926b6e430685.png">
+
