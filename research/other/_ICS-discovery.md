@@ -53,3 +53,5 @@ The outcome of this project looked to answer the following objectives:
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178721516-22737fda-339c-41a9-8540-7d4718203128.png">
 
 ## User Journeys
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/178721848-8b8adf2f-e2b4-440f-9e8e-096c831f18a9.png">
