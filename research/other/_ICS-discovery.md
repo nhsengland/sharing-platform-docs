@@ -13,3 +13,8 @@ The outcome of this project looked to answer the following objectives:
 - How can FutureNHS support ICSs to collaborate with their stakeholders and one another more efficiently?
 
 ## High-level Findings 
+
+| Topic        | Key Findings           | Detail  |
+| ------------- |:-------------| :-----|
+| ICS Structure and Maturity      | Organisations are undergoing a period of intense change | As a result of ICS transition, there is a wide variety of organisation structures across roles, collaboration, digital and regions - these will continue to evolve significantly over the next year. Handling organisation attitudes to system level working will be a challengeduring this period of change. |
+|| Levels of maturity are varied across ICSs | Levels of maturity surrounding digital, collaboration and region are varied. Some of the challenges that underpin these surroundemployee technical skills, too many digital tools and scepticism around change. |
