@@ -43,3 +43,5 @@ The outcome of this project looked to answer the following objectives:
 || Engagement and satisfaction with the platform is influenced by users’ knowledge and awareness of how to use it | The platform has unreached potential in the eyes of users, largely blocked by a lack of understanding and awareness, relianceoncopying others and self-teaching. This reduces engagement and enjoyment of the platform.|
 || FutureNHS is accessible and mostly straightforward to use | Users generally felt that the platform is accessible to nearly everyone, in addition to its ease of use for those who may be less technically skilled. This means basic functions on the platform are easy to learn for most people. |
 || Users sometimes struggle with notifications, access and the ability to organise | Notifications are sometimes perceived as overwhelming, inconsistent and irrelevant. Some participants did not think the platformwas accessible for those working outside of NHS. Some participants felt the name ‘FutureNHS’ excluded those working in local authorities or the third sector, andgenerally referred to the platform as ‘Futures’ |
+
+## Personas 
