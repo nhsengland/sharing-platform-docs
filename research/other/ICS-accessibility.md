@@ -6,10 +6,15 @@
 
 ## Participant Summary 
 
-The accessibility sessions were completed with 12 participants who had a range of access needs, including;
+The accessibility sessions were completed with 12 participants who had a range of access needs;
 
-- Visual access needs included partial sightedness and registered blindess. 
+- 6 participants with visual access needs including partial sightedness and registered blindness. 
 
-- Cognitive access needs included Dyslexia, Dyspraxia and traumatic brain injuries. 
+- 3 participants with cognitive access needs including Dyslexia and traumatic brain injuries. 
 
-- Mobility access needs included Arthritis and Fibromyalgia. 
+- 3 participants with mobility access needs including Arthritis and Fibromyalgia. 
+
+## Key Themes 
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179193017-e87fbdc0-1a0b-46b9-ae37-0783fd732d4f.png">
+
