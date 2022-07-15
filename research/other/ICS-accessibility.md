@@ -30,3 +30,14 @@ The accessibility sessions were completed with 12 participants who had a range o
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179193689-7e624a42-e702-475f-9b19-6ab5e5a7a5c8.png">
 
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179194066-28820996-6177-4149-9fa2-afc3f87b41e4.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179194361-938b99e3-434b-4f40-b5b1-6503183ca53f.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179194452-b09f5e77-71e1-4061-b2a5-c00d6c770d1a.png">
+
+
+
+
+
+
