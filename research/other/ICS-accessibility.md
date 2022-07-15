@@ -8,6 +8,8 @@
 
 The accessibility sessions were completed with 12 participants who had a range of access needs, including;
 
-- Visual: registered blind and partially sighted.
-- Cognitive: Dyslexia, Dyspraxia and traumatic brain injuries. 
-- Mobility: Arthritis and Fibromyalgia. 
+- Visual access needs included partial sightedness and registered blindess. 
+
+- Cognitive access needs included Dyslexia, Dyspraxia and traumatic brain injuries. 
+
+- Mobility access needs included Arthritis and Fibromyalgia. 
