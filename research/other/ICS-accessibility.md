@@ -36,6 +36,35 @@ The accessibility sessions were completed with 12 participants who had a range o
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179194452-b09f5e77-71e1-4061-b2a5-c00d6c770d1a.png">
 
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179194644-a322ddc5-dd03-4927-af53-d3ddf49c2654.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179194729-0c5608f4-adbd-4c21-8898-5ea1c7fcdcdf.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179195780-b6dfc6c7-f48f-4f8f-af9a-996f0986bb91.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179195880-a4bef6d9-679c-4b65-95df-1a064823c8ff.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179195992-0a3c5bc3-7ae0-4385-bc68-f6011542e11b.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179196056-25292117-a5f3-4456-ad46-6d9c0cbee238.png">
+
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179196149-8fba6f12-c90f-4891-a285-cea9eb1e45dd.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
