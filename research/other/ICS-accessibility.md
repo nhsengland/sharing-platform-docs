@@ -1,5 +1,9 @@
 # FutureNHS Accessibility Testing 
 
+Accessible file download: [FutureNHS Accessibility Testing.docx](https://github.com/nhsengland/sharing-platform-docs/files/9190794/FutureNHS.Accessibility.Testing.docx)
+
+
+
 ## Overview 
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/104978148/179188104-65dad56b-3b0f-41b2-92fd-ffdaa0c40d2d.png">
