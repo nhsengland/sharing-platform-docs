@@ -1,6 +1,6 @@
 # FutureNHS Integrated Care System Alpha 
 
-Accessible file: [FutureNHS Integrated Care System Alpha.docx](https://github.com/nhsengland/sharing-platform-docs/files/9190034/FutureNHS.Integrated.Care.System.Alpha.docx)
+Accessible file download: [FutureNHS Integrated Care System Alpha.docx](https://github.com/nhsengland/sharing-platform-docs/files/9190034/FutureNHS.Integrated.Care.System.Alpha.docx)
 
 
 ## Objectives 
