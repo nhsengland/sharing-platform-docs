@@ -214,9 +214,26 @@ We interviewed 6 non-members of the platform, 3 members of the platform. We also
 - Some said they may also use this email to return to the platform if they had not bookmarked the site. For this reason, they hoped to see a link to the platform here​
 - Some suggested it would be good to see information here, or in a separate email, welcoming them to the platform and informing them what they could do now they are registered​
 
+![image](https://user-images.githubusercontent.com/84839501/183890860-a9a4418a-a1d3-4817-8b9c-6cbed3be1407.png)
+
+### Overall
+
+- Overall users responded positively to the experience, explaining that it was simple, quick and what they would expect from a registration process​
+- They felt the familiar NHS branding, the requirement to have a permitted email, and having to go through verification, made the platform feel trusted​
+- Some who were unfamiliar with the platform started to get a feel for how they could use it and felt it would be a useful tool to communicate and share information across trusts​
+- What could be improved​
+- Users still felt there should be more information in the initial email and landing page to explain what they can do on the platform and why they should join​
+
+![image](https://user-images.githubusercontent.com/84839501/183891082-59408a1e-acd2-47c8-9a69-b2d30a53e01e.png)
+
+### Happy Path Recommendations
+
+![image](https://user-images.githubusercontent.com/84839501/183891368-0ebda950-515c-4ef2-9a95-b799961cede6.png)
+
+![image](https://user-images.githubusercontent.com/84839501/183891522-5a3522d4-5db1-482d-acd4-46f6ff0ea31b.png)
 
 
-
+## Registration - Unhappy Path
 
 
 
