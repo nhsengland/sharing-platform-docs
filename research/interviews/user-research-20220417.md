@@ -235,11 +235,132 @@ We interviewed 6 non-members of the platform, 3 members of the platform. We also
 
 ## Registration - Unhappy Path
 
+### First Steps
 
+**Users would either do an internet search or contact the conference speaker to get access to the platform**
 
+**Scenario**
 
+- You’ve recently been to a conference and attended a talk where content was shared from the FutureNHS Population Health Management Academy group. The speaker explained you could access the content by joining their group on the FutureNHS online platform. You’re interested in joining the group, please proceed however you normally would.
 
+- When asked how they would go about getting access to the platform:
+- 3 out of 5 users explained they would get started by doing an internet search and were observed typing in ‘Future NHS’ or ‘NHS Future’ into the search bar​
+- In the search results they looked for a URL they recognised and trusted, either clicking on the FutureNHS site directly or NHS England’s signposting page​
+- 2 out of 5 users explained they would contact whoever had referenced the platform, in this case the speaker at the conference or the conference organiser​
 
+![image](https://user-images.githubusercontent.com/84839501/183940207-1b91db71-aea1-4424-bd51-8ad339e63c6f.png)
 
+### FNHS Homepage
 
+**Users understood how to get registered but wanted to understand more about the platform first**
 
+- When arriving on the FNHS landing page, all said it was clear they needed to register to the platform using either of the ‘Register’ calls to action​
+- Most explained they would want to use this page to understand more about the platform and why it would be useful before registering​
+- The non-NHS user was observed clicking on ‘Membership explained’ as they hoped to find out whether they would be allowed on the platform. Based on the information there so far, they felt confident they could go ahead with a gov.uk email​
+- Two users questioned whether this was a free platform as they associated the word ‘membership’ with a paid subscription ​
+- One user wondered whether they could access the platform no matter where they were in the NHS or whether it was specific to certain teams​
+- One user questioned who owned or managed the platform to understand whether it was credible. They felt uncertain because there was no recognisable NHS logo visible​
+
+![image](https://user-images.githubusercontent.com/84839501/183941488-0d2c8cd9-1ce8-4760-9566-0996313323f4.png)
+
+### Register Form - Error
+
+**Users understood the error but did not always realise they could go on to register their interest**
+
+- Users understood the error had occurred because they had entered an unpermitted email address. They explained they may use the ‘click here’ link (in the yellow box) at this point to check permitted emails if they hadn’t already, or if they had an NHS email, enter this instead​
+- 3 out of 5 users understood that they could continue the process by using the ‘click here’ link to register their interest. They explained they expected this to take them to a generic FAQ page so were pleasantly surprised and hopeful upon reaching a register form​
+- They commented that it was useful to allow non-NHS organisations to register their interest as they wouldn’t want organisations such as charities to be excluded when they could make a valuable contribution​
+- 2 out of 5 users missed the ‘click here’ link to register their interest and explained they would leave the site at this point. If they still wanted access, they may ask a colleague or the conference organiser for support​
+
+![image](https://user-images.githubusercontent.com/84839501/183942037-502ccccf-8662-4aef-80f5-b9e9894be74e.png)
+
+**Users understood the error but did not always realise they could go on to register their interest**
+
+- Users understood the error had occurred because they had entered an unpermitted email address. They explained they may use the ‘click here’ link (in the yellow box) at this point to check permitted emails if they hadn’t already, or if they had an NHS email, enter this instead​
+- 3 out of 5 users understood that they could continue the process by using the ‘click here’ link to register their interest. They explained they expected this to take them to a generic FAQ page so were pleasantly surprised and hopeful upon reaching a register form​
+- They commented that it was useful to allow non-NHS organisations to register their interest as they wouldn’t want organisations such as charities to be excluded when they could make a valuable contribution​
+- 2 out of 5 users missed the ‘click here’ link to register their interest and explained they would leave the site at this point. If they still wanted access, they may ask a colleague or the conference organiser for support​
+
+![image](https://user-images.githubusercontent.com/84839501/183942833-642b8b39-cbfa-4a45-8107-085f87294a42.png)
+
+### Register Your Organisation
+
+**Users understood the form but wanted guidance on specific information and mandatory fields**
+
+- Users understood that this form was to register their organisation and felt confident filling in the fields required​
+- Users understood that personal email addresses could not be used, it must be a professional one instead​
+- They understood that if there was a specific group that had been mentioned at the conference, they could enter this into the ‘Group name’ field​
+- One user felt the ‘About your organisation’ field seemed vague, so suggested it would be good to see guidance around the type of information expected​
+- One user felt it was unclear which fields were mandatory so suggested this should be made explicit​
+- Users expected this request to have to be reviewed manually, so did not expect an immediate response or next step upon submitting the form​
+- They explained they would expect to be taken to a ‘thank you’ page or receive an email to acknowledge their request and how long they should expect to wait for a response​
+
+![image](https://user-images.githubusercontent.com/84839501/183943813-15906ca6-daed-4465-afc8-e86e879fbd3a.png)
+
+### Thankyou for Registering
+
+**Users wanted to understand how long a response would take and may access FAQs for more information**
+
+- Users were pleased to see this confirmation and receive communication of next steps. Most explained they would leave the site at this stage and await an email​
+- Users wanted to understand how long they should expect to wait for a response, most felt 2-3 days was reasonable, though some commented realistically it might be more like a week based on their experience of NHS processes​
+- Some acknowledged the FAQs and explained if they were eager to gain access, they may look at these for more information on the process, how long it may take, or who to contact if they did not hear back​
+- One user hoped to be updated via email throughout the review process to understand where their request was at​
+
+![image](https://user-images.githubusercontent.com/84839501/183945651-1b45e640-6613-468b-8d5c-6d62020d0033.png)
+
+### Response Emails
+
+**Users were disappointed with the limited information and lack of contact details on the emails**
+
+**Your request has been received**
+- Users were disappointed with the limited information provided, they expected to understand timings of responses and be given contact details (email or phone number) they could use to follow up if they did not receive a response​
+
+**Your request has been declined**
+- If accessing the platform was not a priority, users would be unlikely to do anything else at this stage​
+- If it was a priority, they would feel frustrated, as users expected to see contact details (email) they could use to appeal the decision and provide more information on why they think they should be allowed access​
+
+**Your request has been successful**
+- Users felt the message that was communicated was clear, and understood they could click the link to progress with the registration process now that their email address is permitted​
+
+Overall some commented that these emails looked like ‘spam’ due to the generic NHS logo and limited information. They expected to see FutureNHS branding and an email signature 
+
+![image](https://user-images.githubusercontent.com/84839501/183946279-d6d5a26a-ef63-4be3-8180-688730827475.png)
+
+### Login Screen
+
+**Users were surprised not to have to enter their registration information again**
+
+- Users were surprised to land on the login screen from the approval email. They explained they had expected to begin registration again and enter all their details, but were pleased these had been remembered from their previous attempt as it saved them time
+
+![image](https://user-images.githubusercontent.com/84839501/183947787-d7d1c1fc-3e85-400e-b50a-41e156d86e90.png)
+
+### Discover New Landings Page
+
+**Most understood where they had landed and how to get started**
+
+- Most users understood where they were on the platform and that they were being presented with suggested groups as they were not yet a member of any groups​
+- Users were unsure how the platform gathered suggested groups and thought this may be related to the email address or job role they had entered​
+- One user initially missed the ‘Groups we think you might like’ heading and suggested this was because they were just drawn to the ‘Take the tour’ call to action. They suggested moving the heading beneath the CTA instead​
+- Users explained they may get started by exploring the suggested groups, they expected to be able to click on the links to be taken into the groups​
+- If they wanted to find a specific group, users explained they would expect to be able to search keywords​
+- However some initially missed the search bar at the top of the page. They expected to see an in-page search related to groups and were also unsure how broad the results would be if they used the global search
+
+![image](https://user-images.githubusercontent.com/84839501/183949409-6e836eb1-8be3-41fe-a53b-6db3cf218e1b.png)
+
+### Overall
+
+- Overall users responded positively to the experience, explaining that it was simple and clear despite having to go through the process of getting their organisation permitted​
+- Most felt comfortable having to go through extra measures if they were from an outside organisation as this aligned with their knowledge of other platforms, and added to their trust and perceived credibility of the platform​
+
+**What could be improved**
+
+- Users felt strongly about the need for contact information to be presented at relevant points in case they cannot progress with the process or do not get a response
+- They also wanted a clear outline of how long it would take to get a response on their request for access​
+
+![image](https://user-images.githubusercontent.com/84839501/183950133-60e659a5-bc98-4380-90d1-f489f2202f0a.png)
+
+### Unhappy Path Recommendations
+
+![image](https://user-images.githubusercontent.com/84839501/183950729-f0317bf0-e0e0-4679-9cc6-bf16827b0213.png)
+
+![image](https://user-images.githubusercontent.com/84839501/183951019-6d67b75c-fe11-40af-be24-3df17a8ba293.png)
