@@ -1,6 +1,6 @@
 # FutureNHS User Research - 17th April 2022
 
-## User Reserach Overview 
+## User Research Overview 
 
 **Research aim**
 - To review early registration journey designs with non-existing users of the platform and understand pain points or opportunities
@@ -226,12 +226,6 @@ We interviewed 6 non-members of the platform, 3 members of the platform. We also
 
 ![image](https://user-images.githubusercontent.com/84839501/183891082-59408a1e-acd2-47c8-9a69-b2d30a53e01e.png)
 
-### Happy Path Recommendations
-
-![image](https://user-images.githubusercontent.com/84839501/183891368-0ebda950-515c-4ef2-9a95-b799961cede6.png)
-
-![image](https://user-images.githubusercontent.com/84839501/183891522-5a3522d4-5db1-482d-acd4-46f6ff0ea31b.png)
-
 
 ## Registration - Unhappy Path
 
@@ -359,8 +353,3 @@ Overall some commented that these emails looked like ‘spam’ due to the gener
 
 ![image](https://user-images.githubusercontent.com/84839501/183950133-60e659a5-bc98-4380-90d1-f489f2202f0a.png)
 
-### Unhappy Path Recommendations
-
-![image](https://user-images.githubusercontent.com/84839501/183950729-f0317bf0-e0e0-4679-9cc6-bf16827b0213.png)
-
-![image](https://user-images.githubusercontent.com/84839501/183951019-6d67b75c-fe11-40af-be24-3df17a8ba293.png)
