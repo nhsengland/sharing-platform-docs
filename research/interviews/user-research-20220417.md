@@ -26,10 +26,6 @@ For this round of research we used a remote moderated one-to-one user research m
 
 We interviewed 6 non-members of the platform, 3 members of the platform. We also interviewed 8 NHS staff members and 1 non-NHS member. 
 
-## User Summary 
-
-![image](https://user-images.githubusercontent.com/84839501/183879585-6b315fe5-0357-4daa-95aa-563297ef0c8c.png)
-
 ## Summary Findings
 
 **What Went Well?**
