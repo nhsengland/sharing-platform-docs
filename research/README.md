@@ -32,4 +32,7 @@ Below are links to quantitative user research we have undertaken on FutureNHS or
 
 ## Other
 Other research that has been conducted on the platform (newest to oldest)
+- [July 2022](/research/other/ICS-accessibility.md) - **Focussed accessibility testing** on the current FutureNHS private beta platform
+- [July 2022](/research/other/ICS-alpha.md) - Protoype testing for **supporting Integrated Care Systems**
+- [July 2022](/research/other/ICS-discovery.md) - Discovery to better understand how to enhance FutureNHS platform capability to better ***support Integrated Care Systems (ICSs)***, both with internal collaboration and collaboration with other Integrated Care Systems.
 - [July 2020](/research/other/discovery-2020.md) - Large piece of **platform discovery** on the original FutureNHS platform to understand, users, their needs and their current problems.
