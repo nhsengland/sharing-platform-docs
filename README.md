@@ -19,7 +19,7 @@ Visit our [Technical Section](https://github.com/nhsengland/sharing-platform-doc
 Visit our [Source Control Section](https://github.com/nhsengland/sharing-platform-docs/tree/main/technical/source-control) to discover the GitHub repositories we use to publish our platform components.
 
 # Contribute
-Visit our [contribution guide](/Creating-user-stories/contribute) to learn how to contribute anything from new feature suggestions to committing code back to the platform.
+Visit our [contribution guide](/contribute) to learn how to contribute anything from new feature suggestions to committing code back to the platform.
 
 # License
 The documentation is © Crown copyright and available under the terms of the Open Government 3.0 licence.
