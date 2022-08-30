@@ -4,7 +4,7 @@ Welcome to our contribution section, here you will learn about what you can cont
 ## Contributing ideas and suggestions
 All ideas and suggestions must be captured as a user story using the following template:
 
-As a... (choose user persona type from the [FutureNHS personas]())<br>
+As a... (choose user persona type from the [FutureNHS personas](/research/interviews/user-research-20211011.md))<br>
 I need to... (enter what the user needs to be able to do)<br>
 So that I... (enter the reason why they need to be able to do it)<br>
 
