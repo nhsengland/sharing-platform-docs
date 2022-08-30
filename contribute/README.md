@@ -4,9 +4,9 @@ Welcome to our contribution section, here you will learn about what you can cont
 ## Contributing ideas and suggestions
 All ideas and suggestions must be captured as a user story using the following template:
 
-As a... (choose user persona type from the [FutureNHS personas]())
-I need to... (enter what the user needs to be able to do)
-So that I... (enter the reason why they need to be able to do it)
+As a... (choose user persona type from the [FutureNHS personas]())<br>
+I need to... (enter what the user needs to be able to do)<br>
+So that I... (enter the reason why they need to be able to do it)<br>
 
 If you would like to specify any cconditions that must be met when the user story is built these can be added as bulleted acceptance criteria.
 
