@@ -25,4 +25,4 @@ If you would like to specify any conditions that must be met when the user story
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Related functionality**
-If the request is related to an existing feature or an development currently on our [roadmap]https://github.com/nhsengland/futurenhs-roadmap, please also provide that information.
+If the request is related to an existing feature or an development currently on our [roadmap](https://github.com/nhsengland/futurenhs-roadmap), please also provide that information.
