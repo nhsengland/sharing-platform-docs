@@ -57,7 +57,7 @@ Personas take that information and bring the typologies to life with scenarios a
 
 ## Personas
 
-**Amari - The Active Collaborator**
+## Amari - The Active Collaborator ##
 
 " If I hear about new tools to save time, I’m always keen to explore! "
 
@@ -107,10 +107,10 @@ Collaboration is key to their role. They like getting people together and active
 
 **Quote**
 
-- It is important to have the voice of patients and colleagues when making changes or improvements to services / policies / ways of working, for they are those that changes affect the most. For me it helps to have their words of understanding, especially for more complex issues in order to relay simple and clear messages internally and externally.
+" It is important to have the voice of patients and colleagues when making changes or improvements to services / policies / ways of working, for they are those that changes affect the most. For me it helps to have their words of understanding, especially for more complex issues in order to relay simple and clear messages internally and externally."
 
 
-**Darra - The Collaboration Explorer**
+## Darra - The Collaboration Explorer ##
 
 " I am new to collaborative ways of working so am just getting to grips with it. "
 
@@ -156,10 +156,10 @@ Darra works for the NHS Leeds CCG as a Digital Transformation Manager. They’re
 
 **Quote**
 
-- One of the main advantages to digital working is to be able to share data and create efficiency for staff and patients in entering each piece of data once only. This needs to be done collaboratively.
+" One of the main advantages to digital working is to be able to share data and create efficiency for staff and patients in entering each piece of data once only. This needs to be done collaboratively."
 
 
-**Alex - The Collaborative Decision Maker**
+## Alex - The Collaborative Decision Maker ##
 
 "I'm quite new to these technologies…I'm not a digital native, I'm a digital immigrant"
 
@@ -206,9 +206,9 @@ Alex works for East Sussex County Council as a mental health (MH) practitioner a
 
 **Quote**
 
-- I am aware that cross system working is known to reduce health inequalities. As a social care practitioner I am often disappointed at the siloed approach amongst health care professionals. Collaboration usually involves shared solutions to intractable problems including providing services to marginalised communities. 
+" I am aware that cross system working is known to reduce health inequalities. As a social care practitioner I am often disappointed at the siloed approach amongst health care professionals. Collaboration usually involves shared solutions to intractable problems including providing services to marginalised communities."
 
-**Eli - The Collaborative Decision Maker**
+## Eli - The Collaborative Decision Maker ##
 
 "I sit in the centre of the architectural view, I can't do my job without understanding what the business and its people are doing"
 
@@ -252,10 +252,10 @@ _ Some of the apps they use for collaboration and file sharing: Github to set up
 
 **Quote**
 
-- Deciding on the best platform remains challenging always. We are working internally to standardise and consolidate but when colleagues can go off and start using cloud collaboration services without any oversight it becomes all too easy for security and privacy to get left behind.
+" Deciding on the best platform remains challenging always. We are working internally to standardise and consolidate but when colleagues can go off and start using cloud collaboration services without any oversight it becomes all too easy for security and privacy to get left behind."
 
 
-**Ray - The Sceptical Collaborator**
+## Ray - The Sceptical Collaborator ##
 
 "I feel guilty when I miss a workshop with the regional teams. I feel that I ought to be more involved"
 
@@ -303,10 +303,10 @@ Ray works for the NHS North Yorkshire Trust as a Consultant Occupational Health 
 
 **Quote**
 
-- Time, energy, motivation and priority lists are all barriers to collaboration. It requires a lot of energy to explain the value of occupational health and dealing with all the misconceptions and negative personal experiences of others.​
+" Time, energy, motivation and priority lists are all barriers to collaboration. It requires a lot of energy to explain the value of occupational health and dealing with all the misconceptions and negative personal experiences of others"
 
 
-**Jo - The Content Consumer**
+## Jo - The Content Consumer ##
 
 "We are not regularly invited to the table to share our problem-solving skills or contribute in the decision making processes that ultimately affect us and our work environment"
 
@@ -352,4 +352,4 @@ Jo is a children’s community nurse at the Belfast NHS Trust. Jo works with chi
 
 **Quote**
 
-- I think we need a dummy's guide for how the different collaborative tools interact. Think I definitely need a detailed map, and also think I am not alone."​
+" I think we need a dummy's guide for how the different collaborative tools interact. Think I definitely need a detailed map, and also think I am not alone."​
