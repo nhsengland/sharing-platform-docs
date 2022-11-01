@@ -3,10 +3,8 @@
 ## Personas
 - [10 Oct 2021](/research/interviews/user-research-20211011.md) - Personas
 
-## User Interviews
+## Alpha User Interviews
 Below are links to qualitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
-- [17 April 2022](/research/interviews/user-research-20220417.md) - Prototype testing for **registration**
-- [11 February 2022](/research/interviews/user-research-20220214.md) - Research and prototype testing on use of **notifications**
 - [1 February 2022](/research/interviews/user-research-20220202.md) - Research undertaken on **migration**
 - [24 Nov 2021](/research/interviews/user-research-20211124.md) - Interviews on **permissions**
 - [21 Sep 2021](/research/interviews/user-research-20210921.md) - Interviews on **segmentation** and **persona validation**
@@ -15,6 +13,12 @@ Below are links to qualitative user research we have undertaken on FutureNHS ord
 - [12 May 2021](/research/interviews/user-research-20210512.md) - Interviews on user **registration**, **user dashboards** and how users **discover new groups**
 - [29 April 2021](/research/interviews/user-research-20210429.md) - Interviews on how users use **workspace home pages**, the **page builder** and **forums**
 - [29 March 2021](/research/interviews/user-research-20210329.md) - Interviews on how users **get started**, their use of current **user dashboard**, and how they **discover content**
+
+## Beta Prototype User Testing
+Below are links to protoype user research we have undertaken on FutureNHS ordered by date (newest to oldest)
+- [July 2022](/research/other/ICS-alpha.md) - Protoype testing for **supporting Integrated Care Systems**
+- [17 April 2022](/research/interviews/user-research-20220417.md) - Prototype testing for **registration**
+- [11 February 2022](/research/interviews/user-research-20220214.md) - Research and prototype testing on use of **notifications**
 
 ## Surveys
 Below are links to results of surveys undertaken (newest to oldest)
@@ -32,9 +36,8 @@ Below are links to quantitative user research we have undertaken on FutureNHS or
 - [19 March 2021](/research/quantitative/stats-research-20210319.md) - Investigation into the use of **file versions** on platform. Data up to 19 March 2021.
 - [17 March 2021](/research/quantitative/stats-research-20210317.md) - Use of **Forums**. Data to 17 March 2021. Message data from 1 Jan to 17 Mar 2021.
 
-## Other
+## Accessibility Focus
 Other research that has been conducted on the platform (newest to oldest)
 - [July 2022](/research/other/ICS-accessibility.md) - **Focussed accessibility testing** on the current FutureNHS private beta platform
-- [July 2022](/research/other/ICS-alpha.md) - Protoype testing for **supporting Integrated Care Systems**
 - [July 2022](/research/other/ICS-discovery.md) - Discovery to better understand how to enhance FutureNHS platform capability to better ***support Integrated Care Systems (ICSs)***, both with internal collaboration and collaboration with other Integrated Care Systems.
 - [July 2020](/research/other/discovery-2020.md) - Large piece of **platform discovery** on the original FutureNHS platform to understand, users, their needs and their current problems.
