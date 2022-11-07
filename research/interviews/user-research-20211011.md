@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/84839501/171206860-c8a56f42-425b-4cb8-95ac-f94b1a790c81.png)
 
-### Overview of the Personas
+### High level user needs
 
 ![image](https://user-images.githubusercontent.com/84839501/171207612-1a94a5fd-318e-4d15-913c-c7b148099fc8.png)
 
