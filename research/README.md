@@ -9,6 +9,7 @@
 ## Beta User Research
 - [July 2022](/research/other/ICS-accessibility.md) - Focussed **accessibility testing** using the beta
 - [July 2022](/research/other/ICS-alpha.md) - Protoype testing for **supporting Integrated Care Systems**
+- [July 2022](/research/interviews/user-research-22020701.md) - **Usability** testing and heuristic review on the beta
 - [17 April 2022](/research/interviews/user-research-20220417.md) - Prototype testing for **registration**
 - [April 2022](/research/surveys/notifications-april22.md) - Survey to validate user needs, collect preferences and obtain feedback on Kahootz **updates** and **notifications**
 - [11 February 2022](/research/interviews/user-research-20220214.md) - Research and prototype testing on use of **notifications**
