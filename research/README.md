@@ -42,6 +42,6 @@ Below are links to quantitative analyses we have undertaken on FutureNHS ordered
 - [17 March 2021](/research/quantitative/stats-research-20210317.md) - Use of **Forums**. Data to 17 March 2021. Message data from 1 Jan to 17 Mar 2021
 
 ## By topic
-- Notifications (/research/surveys/notifications-april22.md) - How managers and members want to keep up to date with any changes or activity
+- [Notifications](/research/surveys/notifications-april22.md) - How managers and members want to keep up to date with any changes or activity
 
 
