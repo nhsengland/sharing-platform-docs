@@ -17,11 +17,17 @@ This journey distinguishes between the 'happy' and 'unhappy' paths, which offer 
 
 ## Current status  
 
-**Status:** 🟠  👹
+**Status:** 🟠  
 
-The Kahootz registration process has been tested with users and a number of improvements were identified. None of these improvements were progressed with Kahootz once the focus moved to FNHS 2.0.
+There were two rounds of research conducted around the topic of registration.
+The first round of research took part in May 2021. This was a set of usability tests on initial prototypes on the first Alpha prototype (pre-NHS Design system). This was part of a larger test of several areas such as a dashboard and discoverability of new groups.
 
-Two alternate simplified journeys were designed and user tested for FNHS 2.0:
+The second round of testing in April 2022 consisted of user testing of a new prototype using the NHS design system. The design of this prototype built on learnings from previous research as well as general best practice.
+
+The main research goals from these sessions to test users understanding and ability to navigate 2 main journeys - the happy and unhappy paths. 
+
+Also tested were variations on screen layout:
+
 - single page (one long form with multiple questions) 
 - multiple pages (different questions on separate pages) 
 
@@ -32,8 +38,9 @@ The ultimate decision for the design was expected to depend upon technical revie
 
 No new designs were implemented into the product as the designs for 2.0 needed to be scaled back for the MVP. 
 
-WHAT WAS launched on UAT(?), but not user tested and as such this process would need user testing and design refinement.
-List any known issues (spammy emails, OKTA interface)
+WHAT WAS launched on UAT(?),  
+List any known issues (spammy emails, OKTA interface) 
+THIS WOULD BE FOR BEN TO FILL OUT
  
 Retire from a software (MVC forum) and move to an NHS approved software(ad bec)  
 
