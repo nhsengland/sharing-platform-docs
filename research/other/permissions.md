@@ -1,20 +1,22 @@
 # Permissions   
 
-This page summarises and signposts the key stages of the design process so far, for permissions within the Future NHS (FNHS) service. 
+This page summarises and signposts the key stages of the design process to date, for permissions related to workspaces, content areas and forums within the Future NHS (FNHS) service.   
 
 ## What is this?  
 
-There are multiple user journeys that require the set up and management of permissions in order to fulfil the completion of tasks in an appropriate and secure manner.
-These elements of the user journey are dealt with separately and include:
-  
-- the set up of permissions when creating a workspace
-- the sharing of content within workspaces
-- collaboration within workspaces
-- the management of permissions within a dashboard or admin area
+Permissions are a critical feature of the FNHS service as they provide workspace managers with the opportunity to control which members can view and collaborate within their workspaces. When creating a new workspace, managers can opt for an ‘open’ status, whereby anyone can view, share and contribute to the associated content. These workspaces will be visible to all registered users and will appear within related search results. Alternatively they may opt for ‘restricted’ status, where workspaces are visible, but in order to view and interact with them, members must request permission. The third possible status is ‘private’, which can only be found and viewed by members if they are directly invited by the workspace manager.
 
-These journeys distinguish between the user experience of workspace managers and workspace members, which differ significantly. 
-- The workspace manager is defined as the user who establishes workspaces and controls who can see and do tasks within them. They constitutes approx x% of our users.
-- The member is defined as the user   
+This distinction means workspace managers are able to control access to sensitive content and can create highly focused workspaces.  Workspace managers are therefore the predominant users of permissions.
+
+Similar levels of access are applied to content and discussions within forums, sometimes independently of the workspace, meaning that managers can control access at different levels and maintain control of their content. For example restricted content can be put into an open workspace.   
+
+There are multiple user journeys that require the set up and management of permissions in order to complete tasks in an appropriate and secure manner. These include the:
+  
+- set up of permissions when creating a workspace
+- sharing of content within workspaces
+- active contributions within workspaces
+- centralised management of permissions within a dashboard or admin area
+
 
 ## Current status  
 
