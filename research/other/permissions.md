@@ -77,50 +77,49 @@ For the :
 
 ## Insights  
 
-**Insight 1:**   **Awareness** of FNHS
+**Insight 1:**   **Set up process** for workspaces on FNHS
 
-Users need to have both awareness of FNHS and the motivation to register. This information needs to be presented within channels they use or they may not complete registration.  
+Users sometimes find the workspace definitions of ‘open’, ‘restricted’ and ‘private’ ambiguous. They need clarity when creating new workspaces in order to make an appropriate choice. Equivalent clarity needs to be provided when reviewing and editing this status during the lifetime of the workspace. 
 
-To support them in their decision making and encourage them to complete the process.
+To support workspace managers during the set up and editing processes.
 
+**Insight 2:**   Setting up access to **Content**  
 
-**Insight 2:**   Authority to **access**  
+The process for adding permissions to content is considered laborious and overly complex, especially when managers are uploading information in bulk. Whether creating ‘Teams’ or ‘Subgroups’, the user journeys need to be reviewed and simplified in terms of naming, navigation and flow. Users experience different start points for this journey, with the duplication of some elements and these flows would benefit from a redesign that reconsiders the logical stages in the process. 
 
-Users need to understand whether they will be able to access the platform or not. 
+To simplify the process and improve efficiency.
 
-To save anyone from unnecessarily completing the process and reassure them it is worth their time. 
+**Insight 3:**  Intuitive **central area** to manage permissions
 
+Managers find permission management somewhat fragmented and would benefit from a dashboard view where they can centrally manage the permissions of all their workspaces. This area needs to be easy to find and access, plus it needs to enable time and effort savings when editing multiple workspaces, teams and sub-spaces.
 
-**Insight 3:**  Intuitive **flow**
+To give busy workspace managers access to a single view of their permissions.
 
-Users are sometimes overwhelmed by the number of options on the login page and may not understand where to start. The page should present a simple hierarchy of options which guide the user.  
+ **Insight 4:**  Ability to copy settings across **folders and subfolders**  
 
-To enable intuitive login, reduce complexity and improve ease of use.
+There are existing functions available to copy permissions and teams across folders and subfolders. These flow needs to be evaluated and potentially enhanced to ensure the function can be used effectively and consistently across across different user journeys.
 
+To save time and effort from workspace managers.
 
- **Insight 4:**  **Quick** access 
+**Insight 5:**  Expansion of roles to give permissions to **Regional managers** and other non-workspace managers  
 
-NHS users expect to be able to access the platform quickly using their NHS email. 
-
-To save them from setting up new login details and having to remember multiple different logins 
-
-**Insight 5:**  Registration should be **familiar**
-
-Users expect principles of common good practise to apply to the registration for FNHS. For example, information that users provide to FNHS needs to be seen as vital if they are to enter it in a form.  
-
-To simplify and streamline the process of registration.  
-
+Some users requiring acess to permissions are not formal workspace managers. The status of the user group of regional managers - and probably other user groups needs to be reviewed and checked for additional user needs. 
 
  **Evidence for insights:** Survey and interviews, wireframes and design concepts  
 
+### User needs 
+
+> As a workspace manager, I need the ability to create secure workspaces, so that I can collaborate with the right colleagues.
+ 
+> As a workspace manager, I need to be able to invite everyone to read and contribute to the content I create, so that I give all my colleagues the opportunity to learn, share and connect.
+
+> As a workspace manager, I need to remain aware of what I am sharing and with whom, so that I am in control of sensitive information.
+
+> As a workspace manager, I need an easy way to control who can see all the content I share, so that I don’t waste time searching to make changes. 
 
 
-**User needs**   
-> As a person working in Health and Social care, I need to understand what the FutureNHS platform offers, so that I can decide whether to join.
-> As a person working in Health and Social care, I need to understand whether the FutureNHS platform is available to me, so that I can decide whether to join.
-> As a person working in Health and Social care, I need to access the FutureNHS platform, so that I can share, learn and connect with others in my sector.
-> As a person working in Health and Social care, I need the FutureNHS platform to be secure and reliable, so that I can trust the source of the content I find there.
-**Areas to explore** 
+
+### Areas to explore 
 
 Review previous design concepts 
 
