@@ -22,18 +22,13 @@ There are multiple user journeys that require the set up and management of permi
 
 **Status:** 🟠  
 
-The Kahootz  ... None of these improvements were progressed with Kahootz once the focus moved to FNHS 2.0.
+Permissions are a critical and enabling feature of the FNHS platform and were the subject of three rounds of user interviews during June, August and November 2021. Overall, despite some minor usability issues during setup (which has been described as clunky) and around restricting content assignment (which has been described as complex), managers considered permissions extremely valuable to help them restrict access in their desired way and in some cases, permissions set Kahootz apart from other tools (for example Sharepoint.) 
 
-Two alternate simplified journeys were designed and user tested for FNHS 2.0:
-- journey one 
-- journey two etc.
+Kahootz updated the platform in August 2022 to address some known issues with permissions, but no user research has been conducted since this time, therefore it is recommended that an expert review is conducted at the earliest opportunity. It is believed that the navigational support provided around the key user journeys will need to be reviewed and assessed to identify and prioritise improvements.
 
-Both of these simplified new registration offered considerable user benefits over the Kahootz process as evidenced by ...
+Several design concepts were also tested with users to inform designs for FNHS 2.0. These concepts can be reviewed again in terms of the learnings they contribute to the Kahootz platform.
 
-Designs for the new platform were equally usable, with a minor preference for the single form, where users could see at a glance what questions they needed to answer. 
-The ultimate decision for the design was expected to depend upon technical review. 
-
-No new designs were implemented into the product as the designs for 2.0 needed to be scaled back for the MVP. 
+No new designs were implemented into the product FNHS 2.0 as the designs were scaled back for MVP. 
  
 
 ## Recommendations  
