@@ -10,7 +10,7 @@ This distinction means workspace managers are able to control access to sensitiv
 
 Similar levels of access are applied to content and discussions within forums, sometimes independently of the workspace, meaning that managers can control access at different levels and maintain control of their content. For example 'restricted' content can be put into an 'open' workspace.   
 
-There are multiple user journeys that require the set up and management of permissions in order to complete tasks in an appropriate and secure manner. These include:
+There are multiple core user journeys that require the set up and management of permissions in order to complete tasks in an appropriate and secure manner. These include:
   
 - the set up of permissions when creating a workspace
 - the sharing of content within workspaces
@@ -24,26 +24,30 @@ There are multiple user journeys that require the set up and management of permi
 
 Permissions are a critical and enabling feature of the FNHS platform and were the subject of three rounds of user interviews during June, August and November 2021. Overall, despite some minor usability issues during setup (which has been described as clunky) and around restricting content assignment (which has been described as complex), managers considered permissions extremely valuable to help them restrict access in their desired way - and in some cases, permissions set Kahootz apart from other tools (for example Sharepoint.) 
 
-Kahootz updated the platform in August 2022 to address some known issues with permissions, but no user research has been conducted since this time, therefore it is recommended that an expert review is conducted at the earliest opportunity. It is anticipated that the navigational support provided around the key user journeys will need to be reviewed and assessed to identify and prioritise improvements.
+Kahootz updated the platform in August 2022 to address some known issues with permissions, but no user research has been conducted since this time, therefore it is recommended that an expert review (with a content focus) is conducted at the earliest opportunity. It is anticipated that the navigational support provided around the key user journeys will need to be reviewed and assessed to identify and prioritise improvements.
 
-Several design concepts were also tested with users to inform designs for FNHS 2.0, particularly in respect to the central admin area or dashboard. These concepts should be reviewed again in terms of the learnings they contribute to the Kahootz platform.
+Several design concepts were also tested with users to inform designs for FNHS 2.0, particularly in respect to the central admin area or dashboard. These concepts should be reviewed again in terms of the learnings they may contribute to the Kahootz platform.
 
-No new designs were implemented into the product FNHS 2.0 as the designs were scaled back for MVP. 
+No new designs were implemented into the product FNHS 2.0, as the designs were scaled back for MVP. 
  
 
 ## Recommendations  
 
 ### Short term (in Kahootz)  
 
-Review the user journeys for set up and management of permissions with a primary focus on updating content to improve clarity around the processes. In parallel, review the navigation for these user journeys to improve consistency and remove confusing duplication.
+* Review the user journey for set up of permissions with a primary focus on updating the website content to improve clarity around the process and the choices involved. In parallel, assess the set up flow to check if a preview function could be added as a quick win. 
 
-Similarly review the design concepts for the central management of permissions with a focus on updating the content and navigation.  
+* Review the content design for allocating permissions to content within workspaces (using Teams), looking for quick wins. In parallel, review the navigation and flow to identify any longer term recommendations.
 
-Submit findings and change requests to Kahootz were necessary.
+* Review the user journeys for management of permissions with a primary focus on updating the website content to simplify the process. In parallel, review the navigation to improve consistency and remove any confusing duplication. Re-visit the user evaluated design concepts for the central management of permissions - with a focus on updating the content and navigation - and check for any quick wins. 
+
+* Submit findings and change requests to Kahootz where necessary.
 
 ### Long term  
 
-Review who else might need control over permissions. Check needs across the broader user base to assess for an extension in user roles. Identify the subset of users who don't need full workspace management, but who would benefit from being able to upload and share content with a subset of users. 
+* Review who else might need control over permissions. Check needs across the broader user base to assess for an extension in user roles. Identify the subset of users who don't need full workspace management, but who would benefit from being able to upload and share content with a subset of users. This topic and the classification of 'restricted' content were extensively explored during user research in November 2021 (see below).
+
+* Assess migration issues around the transfer of permissions from Kahootz to the new platform.
 
 ## What we did   
 
