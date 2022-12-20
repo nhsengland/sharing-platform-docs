@@ -6,27 +6,27 @@ This page summarises and signposts the key stages of the design process to date,
 
 Permissions are a critical feature of the FNHS service as they provide workspace managers with the opportunity to control which members can view and collaborate within their workspaces. When creating a new workspace, managers can opt for an ‘open’ status, whereby anyone can view, share and contribute to the associated content. These workspaces will be visible to all registered users and will appear within related search results. Alternatively they may opt for ‘restricted’ status, where workspaces are visible, but in order to view and interact with them, members must request permission. The third possible status is ‘private’, which can only be found and viewed by members if they are directly invited by the workspace manager.
 
-This distinction means workspace managers are able to control access to sensitive content and can create highly focused workspaces.  Workspace managers are therefore the predominant users of permissions.
+This distinction means workspace managers are able to control access to sensitive content and can create highly focused workspaces.  Workspace managers are the predominant users of permissions.
 
-Similar levels of access are applied to content and discussions within forums, sometimes independently of the workspace, meaning that managers can control access at different levels and maintain control of their content. For example restricted content can be put into an open workspace.   
+Similar levels of access are applied to content and discussions within forums, sometimes independently of the workspace, meaning that managers can control access at different levels and maintain control of their content. For example 'restricted' content can be put into an 'open' workspace.   
 
-There are multiple user journeys that require the set up and management of permissions in order to complete tasks in an appropriate and secure manner. These include the:
+There are multiple user journeys that require the set up and management of permissions in order to complete tasks in an appropriate and secure manner. These include:
   
-- set up of permissions when creating a workspace
-- sharing of content within workspaces
-- active contributions within workspaces
-- centralised management of permissions within a dashboard or admin area
+- the set up of permissions when creating a workspace
+- the sharing of content within workspaces
+- discussions within workspaces
+- the centralised management of permissions within a dashboard or admin area
 
 
 ## Current status  
 
-**Status:** 🟠  
+**Status:** AMBER 🟠  
 
-Permissions are a critical and enabling feature of the FNHS platform and were the subject of three rounds of user interviews during June, August and November 2021. Overall, despite some minor usability issues during setup (which has been described as clunky) and around restricting content assignment (which has been described as complex), managers considered permissions extremely valuable to help them restrict access in their desired way and in some cases, permissions set Kahootz apart from other tools (for example Sharepoint.) 
+Permissions are a critical and enabling feature of the FNHS platform and were the subject of three rounds of user interviews during June, August and November 2021. Overall, despite some minor usability issues during setup (which has been described as clunky) and around restricting content assignment (which has been described as complex), managers considered permissions extremely valuable to help them restrict access in their desired way - and in some cases, permissions set Kahootz apart from other tools (for example Sharepoint.) 
 
-Kahootz updated the platform in August 2022 to address some known issues with permissions, but no user research has been conducted since this time, therefore it is recommended that an expert review is conducted at the earliest opportunity. It is believed that the navigational support provided around the key user journeys will need to be reviewed and assessed to identify and prioritise improvements.
+Kahootz updated the platform in August 2022 to address some known issues with permissions, but no user research has been conducted since this time, therefore it is recommended that an expert review is conducted at the earliest opportunity. It is anticipated that the navigational support provided around the key user journeys will need to be reviewed and assessed to identify and prioritise improvements.
 
-Several design concepts were also tested with users to inform designs for FNHS 2.0. These concepts can be reviewed again in terms of the learnings they contribute to the Kahootz platform.
+Several design concepts were also tested with users to inform designs for FNHS 2.0, particularly in respect to the central admin area or dashboard. These concepts should be reviewed again in terms of the learnings they contribute to the Kahootz platform.
 
 No new designs were implemented into the product FNHS 2.0 as the designs were scaled back for MVP. 
  
@@ -35,17 +35,15 @@ No new designs were implemented into the product FNHS 2.0 as the designs were sc
 
 ### Short term (in Kahootz)  
 
-For the dashboard or home page: 
+Review the user journeys for set up and management of permissions with a primary focus on updating content to improve clarity around the processes. In parallel, review the navigation for these user journeys to improve consistency and remove confusing duplication.
 
-- Users need to understand 
+Similarly review the design concepts for the central management of permissions with a focus on updating the content and navigation.  
 
-For the : 
-
-- Reduce the number   
+Submit findings and change requests to Kahootz were necessary.
 
 ### Long term  
 
-- Allow  
+Review who else might need control over permissions. Check needs across the broader user base to assess for an extension in user roles. Identify the subset of users who don't need full workspace management, but who would benefit from being able to upload and share content with a subset of users. 
 
 ## What we did   
 
@@ -74,31 +72,29 @@ For the :
 
 **Insight 1:**   **Set up process** for workspaces on FNHS
 
-Users sometimes find the workspace definitions of ‘open’, ‘restricted’ and ‘private’ ambiguous. They need clarity when creating new workspaces in order to make an appropriate choice. Equivalent clarity needs to be provided when reviewing and editing this status during the lifetime of the workspace. 
+Users sometimes find the workspace definitions of ‘open’, ‘restricted’ and ‘private’ ambiguous. They need clarity when creating new workspaces in order to make an appropriate choice. Equivalent clarity needs to be provided when reviewing and editing this status during the lifetime of the workspace. It is important to address both these journeys in tandem in order to maintain consistency and clarity.
 
-To support workspace managers during the set up and editing processes.
+**Insight 2:**   Setting up and editing access to **Content**  
 
-**Insight 2:**   Setting up access to **Content**  
+The process for adding permissions to content is considered laborious and overly complex, especially when managers are uploading information in bulk. Whether creating ‘Teams’ or ‘Subgroups’, the user journeys need to be reviewed and simplified in terms of naming, navigation and flow. The flow of adding content and then creating a 'Team' before allocating the team to the content is long and can create confusion. The navigation that supports this flow is problematic, with issues including the duplication of some elements, different systems of navigation (list of links vs cog icon) and confusion between the purpose of the 'View' and 'Modify' teams links. All these usability issues could benefit from a redesign that reconsiders the logical stages in the process and reviews the content to ensure clarity. 
 
-The process for adding permissions to content is considered laborious and overly complex, especially when managers are uploading information in bulk. Whether creating ‘Teams’ or ‘Subgroups’, the user journeys need to be reviewed and simplified in terms of naming, navigation and flow. Users experience different start points for this journey, with the duplication of some elements and these flows would benefit from a redesign that reconsiders the logical stages in the process. 
-
-To simplify the process and improve efficiency.
-
-**Insight 3:**  Intuitive **central area** to manage permissions
+**Insight 3:**  **Central area** to manage permissions
 
 Managers find permission management somewhat fragmented and would benefit from a dashboard view where they can centrally manage the permissions of all their workspaces. This area needs to be easy to find and access, plus it needs to enable time and effort savings when editing multiple workspaces, teams and sub-spaces.
 
-To give busy workspace managers access to a single view of their permissions.
-
  **Insight 4:**  Ability to copy settings across **folders and subfolders**  
 
-There are existing functions available to copy permissions and teams across folders and subfolders. These flow needs to be evaluated and potentially enhanced to ensure the function can be used effectively and consistently across across different user journeys.
+There are existing functions available to copy permissions and teams across folders and subfolders. These flows needs to be evaluated and potentially enhanced to ensure the function can be used effectively and consistently across across different user journeys.
 
-To save time and effort from workspace managers.
 
-**Insight 5:**  Expansion of roles to give permissions to **Regional managers** and other non-workspace managers  
+**Insight 5:**  Expansion of roles to give permissions to **regional managers** and other non-workspace managers  
 
-Some users requiring acess to permissions are not formal workspace managers. The status of the user group of regional managers - and probably other user groups needs to be reviewed and checked for additional user needs. 
+Some users requiring acess to permissions are not formal workspace managers. The status of the user group of regional managers - and probably other user groups - should be reviewed and checked for additional user needs. 
+
+
+**Insight 6:**  Use of private workspaces to **preview** content   
+
+Some users create workspaces with a 'private' status to hide them from view while they are being constructed. Then when they are complete and ready to share, workspace managers switch the status to 'restricted' or 'open.' This suggests a need to review the process for creating a workspace and options for previewing the space until it is ready to share.  
 
  **Evidence for insights:** Survey and interviews, wireframes and design concepts  
 
