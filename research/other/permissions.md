@@ -22,7 +22,7 @@ There are multiple core user journeys that require the set up and management of 
 
 **Status:** AMBER 🟠  
 
-Permissions are a critical and enabling feature of the FNHS platform and were the subject of three rounds of user interviews during June, August and November 2021. Overall, despite some minor usability issues during setup (which has been described as clunky) and around restricting content assignment (which has been described as complex), managers considered permissions extremely valuable to help them restrict access in their desired way - and in some cases, permissions set Kahootz apart from other tools (for example Sharepoint.) 
+The platform aims to encourage users to be as open as possible with their sharing in order to promote collaboration and maximize the benefits to the health and social care community. Permissions are a critical and enabling feature of the FNHS platform and were the subject of three rounds of user interviews during June, August and November 2021. Overall, despite some minor usability issues during setup (which has been described as clunky) and around restricting content assignment (which has been described as complex), managers considered permissions extremely valuable to help them restrict access in their desired way - and in some cases, permissions set Kahootz apart from other tools (for example Sharepoint). 
 
 Kahootz updated the platform in August 2022 to address some known issues with permissions, but no user research has been conducted since this time, therefore it is recommended that an expert review (with a content focus) is conducted at the earliest opportunity. It is anticipated that the navigational support provided around the key user journeys will need to be reviewed and assessed to identify and prioritise improvements.
 
@@ -35,11 +35,13 @@ No new designs were implemented into the product FNHS 2.0, as the designs were s
 
 ### Short term (in Kahootz)  
 
-* Review the user journey for set up of permissions with a primary focus on updating the website content to improve clarity around the process and the choices involved. In parallel, assess the set up flow to check if a preview function could be added as a quick win. 
+* Review the user journey for set up of permissions with a primary focus on updating the website content to improve clarity around the process and the options involved, so that users can make informed decisions. In parallel, assess the set up flow to check if a preview function could be added as a quick win. 
 
-* Review the content design for allocating permissions to content within workspaces (using Teams), looking for quick wins. In parallel, review the navigation and flow to identify any longer term recommendations.
+* Review the content design for allocating permissions to content within workspaces, looking for quick wins such as improving the process of creating and applying permissions to teams. In parallel, review the navigation and flow to identify any longer term recommendations.
 
 * Review the user journeys for management of permissions with a primary focus on updating the website content to simplify the process. In parallel, review the navigation to improve consistency and remove any confusing duplication. Re-visit the user evaluated design concepts for the central management of permissions - with a focus on updating the content and navigation - and check for any quick wins. 
+
+* Identify areas where permissions are currently used due to a lack of alternative functionality. For example consider implementing options such as a save draft mode and preview function instead of using permissions.
 
 * Submit findings and change requests to Kahootz where necessary.
 
