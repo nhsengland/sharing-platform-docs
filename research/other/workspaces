@@ -1,9 +1,9 @@
 # Workspaces   
 
-This page summarises and signposts the key stages of the design process to date for workspaces - the central and dominant feature of the Future NHS (FNHS) service, which enables the sharing of content and subsequent means of collaboration.  
+This page summarises and signposts the key stages of the design process to date for workspaces - the central feature of the Future NHS (FNHS) service, which enables the sharing of content and subsequent means of collaboration.  
 
 ## What is this?  
-This includes the creation and management of workspaces by users designated as 'workspace managers' and the utilisation of workspaces by FNHS members. Each of these use cases have been reviewed separately.
+This includes the creation and management of workspaces by users designated as 'workspace managers' and the utilisation of workspaces by FNHS members. Each of these user journeys have been reviewed separately.
 
 User research detailed in this blog has therefore focused on the high-level user journeys of:
 - **Workspace managers** creating and maintaining a workspace 
@@ -17,18 +17,15 @@ Historically on FNHS, the majority of workspace managers have agreed that the pl
 - share and collaborate on national, regional, or local guidance and information
 - share what works and doesn’t work so everyone can learn faster 
 There are variations in the way it is used (for example approximately 30% of National workspace managers use it as a central repository for information, compared to only 10% of regional and local workspace managers.)
-However the managers are generally satisfied that the Kahootz platform meets their needs. Usability issues they encounter include some difficulties with permissions and these are detailed in the 'Permissions' blog. 
-Some additional secondary areas for improvement include; the ability to easily promote a workspace, identify how a workspace is performing and monitor the impact of changes.  
+However the managers are generally satisfied that the Kahootz platform meets their needs. Usability issues they encounter include some difficulties with permissions (as detailed in the 'Permissions' blog) and some secondary areas for improvement including; the ability to easily promote a workspace, identify how a workspace is performing and monitor the impact of changes.  
 
-Overall, workspaces offer significant creative freedom to workspace managers during set up. Arguably too much freedom, since many features are unused and some of the key features require a level of digital literacy and experience to use effectively. 
+Overall, workspaces offer significant creative freedom to workspace managers during set up. Arguably too much freedom, since many features are unused and some of the key features require a level of digital literacy and experience to use effectively. As evidenced by the need for ongoing technical support by many workspace managers.
 
-Furthermore, when too much creative freedom is afforded, the risk of accessability issues for end users increases. There are significant accessiblity requirements in the FNHS user base (disability impairment/digital accessibility, use of assistive technology/adjustments and shared devices)
+Furthermore, when too much creative freedom is afforded, the risk of accessability issues for end users increases. There are significant accessiblity requirements in the FNHS user base (disability impairment/digital accessibility, use of assistive technology/adjustments and shared devices).
 These needs can come into conflict with the creative freedoms offered to workspace managers. 
-There is clearly an important balance between this creativity and the resultant accessibility and as such this is the primary issue that needs to be addressed as a priority. 
-Also accessibility for the workspace managers...
-Recognising this, there were work done on defining a template approach to simplify the process of workspace creation and generate pages of content that have been thoroughly accessibility tested.  
+There is clearly an important balance between this creativity and the resultant accessibility and as such this is an issue that needs to be addressed as a priority. 
 
-strong preference for blocks template approach
+Recognising this, work was done on defining a template approach to simplify the process of workspace creation and to enable workspace managers to generate more accessible pages. Associated research generated robust support for an approach using block templates.
 
 
 ## Current status  
@@ -76,21 +73,28 @@ strong preference for blocks template approach
 **Insight 1:**   Importance of **accessibility** for workspaces on FNHS
 
 Our survey in July 2021 suggested a lack of confidence in using technology for 12% of respondents. 17% used assistive technology or made adjustments to their technology. 
-In combination with the statistic that 25% shared a device, these factors will have a significant effect on the usability of complex workspaces for a significant proportion of the user base - both of members and workspace managers. 
-In conjunction with the user need of workspace managers to fully support their members, this highlights the importance of improving accessibility and inclusivity upon the platform.
-Means we need to support managers better and make the workspaces easier to create.
+In combination with the factor that 25% shared a device, this will likely have a significant effect on the usability of complex workspaces for a significant proportion of the user base - both members and workspace managers. 
+In conjunction with the user need for workspace managers to inclusively support their members, this highlights the importance of improving accessibility on the platform, meaning we need to support managers better and make accessible workspaces easier to create.
 
-**Insight 2:**   **Pride**  in creating effective workspaces
+**Insight 2:**   **Pride** in creating effective workspaces
 
-Research has surfaced a strong desire and pride to do well by their members in workspace managers.  Want to do a good job. Want it to look good. need it simple to create. Allied with the insight above.
+Research has surfaced a strong desire and pride in workspace managers, to do well by their members. They want to do a good job and produce effective workspaces that look good and work well. Allied with the insight above, this supports the insight that they are motivated to create inclusive workspaces.
 
-**Insight 3:**   Easy way to set up engaging content on workspaces using **content blocks**  
+ **Insight 3:**   Set up of workspaces is overly **complex**  
 
- strong preference and confidence in block approach for creating interesting and engaging workspaces. Simplify the edit process
+ The number of options available to workspace managers can be overwhelming and requires a significant level of digital experience to use them effectively. Many options are unexplained and result in users needing additional support.
+ Several formats and options are unexplained and go unused. Users need simpler and more intuitive options to build and manage their pages.
  
- **Insight 4:**   Way to create **draft** workspaces and **preview** before pushing to live
+ **Insight 4:**   Easy way to set up engaging content on workspaces using **content blocks**  
 
- Need to have transparency over what they are creating
+ In response to the complexity of setting up workspaces, a number of alternative options were explored with users. 
+ There was a strong preference and increased confidence for a block approach, whereby users can use templates and compile a range of blocks to create useful and visually engaging workspaces. 
+ 
+ **Insight 5:**   Way to create **draft** workspaces and **preview** before pushing to live
+
+ When researching permissions, it was clear that users are creating private workspaces in order to preview their work before inviting members to view and interact with them.
+ This workaround and ongoing interviews highlighted the need for users to have the ability to create a workspace in draft, save it and preview it before they publish. Essentially, they need to have transparency over what they are creating as they work. 
+ This additional feature will help increase confidence and learning of workspace managers.
  
 
 ### User needs 
