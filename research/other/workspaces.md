@@ -3,64 +3,69 @@
 This page summarises and signposts the key stages of the design process to date for workspaces - the central feature of the Future NHS (FNHS) service, which enables the sharing of content and subsequent means of collaboration.  
 
 ## What is this?  
-This includes the creation and management of workspaces by users designated as 'workspace managers' and the utilisation of workspaces by FNHS members. Each of these user journeys have been reviewed separately.
+The creation and management of workspaces by users designated as 'workspace managers' and the utilisation of workspaces by FNHS members. 
 
-User research detailed in this blog has therefore focused on the high-level user journeys of:
+User research detailed in this blog has focused on the high-level user journeys of:
 - **Workspace managers** creating and maintaining a workspace 
 - **Members** viewing and collaborating within a workspace
 
-These journeys are focused on core 'jobs to be done'and defined as primary for employees generally considered to be time-poor. In addition, there are secondary use cases related to the use of specific features and the discovery of new workspaces, people and discussions. 
-Improving aspects of discoverability underlies many user needs and has been considered largely within the context of features including search, dashboard and updated homepage. These findings and recommendations have been summarised within a separate blog titled **workspace discovery**.
+These journeys focus on core 'jobs to be done' and are defined as primary use cases for employees generally considered to be time-poor. In addition, there are secondary use cases related to specific features and the 'discovery' of new workspaces, people and discussions within the service. 
+Aspects of discoverability underlie many user needs and have largely been considered within the context of features including search, dashboard and updated homepage. These findings and recommendations have been summarised within a separate blog titled **workspace discovery**.
 
 Historically on FNHS, the majority of workspace managers have agreed that the platform successfully helps build a community and network with the purpose to:
 - keep stakeholders informed
 - share and collaborate on national, regional, or local guidance and information
 - share what works and doesn’t work so everyone can learn faster 
-There are variations in the way it is used (for example approximately 30% of National workspace managers use it as a central repository for information, compared to only 10% of regional and local workspace managers.)
-However the managers are generally satisfied that the Kahootz platform meets their needs. Usability issues they encounter include some difficulties with permissions (as detailed in the 'Permissions' blog) and some secondary areas for improvement including; the ability to easily promote a workspace, identify how a workspace is performing and monitor the impact of changes.  
 
-Overall, workspaces offer significant creative freedom to workspace managers during set up. Arguably too much freedom, since many features are unused and some of the key features require a level of digital literacy and experience to use effectively. As evidenced by the need for ongoing technical support by many workspace managers.
+Despite variations in the way it is used (for example between national, regional and local teams), managers are generally satisfied that the Kahootz platform meets their needs. (Some usability issues with permissions are outlined in the 'Permissions' blog and some additional areas for improvement have been identified related to workspace promotion and ongoing performance analytics.)  
 
-Furthermore, when too much creative freedom is afforded, the risk of accessability issues for end users increases. There are significant accessiblity requirements in the FNHS user base (disability impairment/digital accessibility, use of assistive technology/adjustments and shared devices).
-These needs can come into conflict with the creative freedoms offered to workspace managers. 
-There is clearly an important balance between this creativity and the resultant accessibility and as such this is an issue that needs to be addressed as a priority. 
+Overall, workspaces offer significant creative freedom to workspace managers during set up. Arguably too much freedom, since many features go unused and some key features require a high level of digital literacy and experience to use effectively. (As evidenced by the need for ongoing technical support by many workspace managers.)
 
-Recognising this, work was done on defining a template approach to simplify the process of workspace creation and to enable workspace managers to generate more accessible pages. Associated research generated robust support for an approach using block templates.
+Furthermore, when too much creative freedom is afforded, the risk of accessibility issues for end users increases. There are significant self-reported accessiblity needs in the FNHS user base (disability impairment/digital accessibility, use of assistive technology/adjustments and shared devices).
+These needs can come into conflict with the current creative freedoms offered to workspace managers. 
+
+There is clearly an important balance to be struck between offering managers a simple set up process, without losing too much of the functionality that enables them to effectively convey the information they are sharing, in such a way that all workspaces demonstrate a high level of accessibility. As such, this is an issue that needs to be addressed as a priority. 
+
+Recognising this, a template approach to simplify the process of workspace creation and to enable workspace managers to generate more accessible pages was defined and tested with users. Associated research generated robust support for an approach using content **block templates**.
 
 
 ## Current status  
 
 **Status:** AMBER 🟠  
 
-  
+Wireframes and design concepts were tested with users in August and September 2021.
+Learnings from this research form the key set of recommendations for updates and they will require a degree of prioritisation before they are presented to and evaluated by Kahootz.
  
 
 ## Recommendations  
 
 ### Short term (in Kahootz)  
 
-* Guidelines for creating accessible workspaces 
-* Draft and preview functions
+* Establish best practise for creating a workspace within the existing service
+* Create guidelines for creating accessible workspaces 
+* Communicate these guidelines to workspace managers and customer support teams
+* As a priority - scope the additional functionality of draft, save and preview functions into the existing workspaces
 
 ### Long term  
 
-* Full accessible content blocks to build a page
+* Progress the design concept for content block templates  
+* Implement a template based CMS system that produces accessible pages whilst allowing managers freedom to create flexible pages
 * Assess migration issues  
 
 ## What we did   
 
 ### Kahootz and new design concept research  
-- [21 Sep 2021](/research/interviews/user-research-20210921.md) - Interviews on **design validation** of **groups**, **files** and **folders**, **forums** and **user dashboard**
-- [3 Aug 2021](/research/interviews/user-research-20210803.md) - Interviews on use of **kahootz workspace homepage** and **Managers Wireframes**
-- [July 2021](/research/surveys/Health&CareSector.md) - Survey conducted with users to help define our **personas**
-- [29 April 2021](/research/interviews/user-research-20210429.md) - Interviews on how users use **workspace home pages**, the **page builder** and **forums**
-- [July 2020](/research/surveys/managers-survey-202006.md) - Survey conducted with **Workspace Managers** on their use and attitude to the platform to help define our **personas**
+- [21 Sep 2021](/research/interviews/user-research-20210921.md) - Interviews on **design validation** of **groups**, **files and folders**, forums and **user dashboard**
+- [3 Aug 2021](/research/interviews/user-research-20210803.md) - Interviews on use of **kahootz workspace homepage** and **managers wireframes**
+- [July 2021](/research/surveys/Health&CareSector.md) - Survey to help define our personas and their attitudes to workspaces
+- [29 April 2021](/research/interviews/user-research-20210429.md) - Interviews on how users use **workspace home pages**, the **page builder** 
+- [July 2020](/research/surveys/managers-survey-202006.md) - Survey conducted with **Workspace Managers** on their use and attitudes to the platform  
  
 
 ### FNHS 2.0 Research  
 
-- [July 2022](/research/other/ICS-accessibility.md) - Focussed **accessibility testing** using the beta
-- [July 2022](/research/other/ICS-alpha.md) - Protoype testing for **supporting Integrated Care Systems**
+- [July 2022](/research/other/ICS-accessibility.md) - Focussed **accessibility** testing using the beta
+- [July 2022](/research/other/ICS-alpha.md) - **Protoype** testing for supporting Integrated Care Systems
 - [July 2022](/research/interviews/user-research-20220701.md) - **Usability** testing and heuristic review on the beta
 
 ### Designs  
