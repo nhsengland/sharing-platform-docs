@@ -9,8 +9,10 @@ User research detailed in this blog has focused on the high-level user journeys 
 - **Workspace managers** creating and maintaining a workspace 
 - **Members** viewing and collaborating within a workspace
 
-These journeys focus on core 'jobs to be done' and are defined as primary use cases for employees generally considered to be time-poor. In addition, there are secondary use cases related to specific features and the 'discovery' of new workspaces, people and discussions within the service. 
-Aspects of discoverability underlie many user needs and have largely been considered within the context of features including search, dashboard and updated homepage. These findings and recommendations have been summarised within a separate blog titled **workspace discovery**.
+These journeys focus on core 'jobs to be done' and are defined as primary use cases for employees generally considered to be time-poor. 
+
+In addition, there are secondary use cases related to specific features and the 'discovery' of workspaces, people and discussions within the service. 
+Aspects of discoverability underlie many user needs and have largely been considered within the context of features including search, dashboard and updated homepage. These findings and recommendations have been summarised within a separate blog titled **workspace discovery**. It is assumed that well constructed and maintained workspaces will de facto become easier to discover. 
 
 Historically on FNHS, the majority of workspace managers have agreed that the platform successfully helps build a community and network with the purpose to:
 - keep stakeholders informed
@@ -42,9 +44,9 @@ Learnings from this research form the key set of recommendations for updates and
 ### Short term (in Kahootz)  
 
 * Establish best practise for creating a workspace within the existing service
-* Create guidelines for creating accessible workspaces 
-* Communicate these guidelines to workspace managers and customer support teams
-* As a priority - scope the additional functionality of draft, save and preview functions into the existing workspaces
+* Create guidelines for workspace managers about creating accessible workspaces 
+* Communicate these guidelines and raise awareness with workspace managers and customer support teams
+* As a priority - scope the additional functionality of 'draft, save and preview' functions into the existing workspaces
 
 ### Long term  
 
@@ -70,8 +72,7 @@ Learnings from this research form the key set of recommendations for updates and
 
 ### Designs  
 
-- [Figma prototype designs](https://www.figma.com/file/4ws4CymBPVIpgdNIsTLHcb/FutureNHS_Notifications?node-id=136%3A34204)    
-
+- [Figma prototype designs](https://www.figma.com/file/UA3FosZ12HILk1KEpBlDKL/Homepage-template?node-id=0%3A1)
 
 ## Insights  
 
@@ -105,26 +106,21 @@ Research has surfaced a strong desire and pride in workspace managers, to do wel
 ### User needs 
 
 > As a workspace manager, I need the ability to create and manage effective workspaces, to enable sharing and collaboration.
+
+> As a workspace manager, I need a simple and intuitive way to create and manage effective workspaces, so that I do not need technical support.
  
 > As a workspace manager, I need my workspaces to be accessible to all, so that I give all my colleagues the opportunity to learn, share and connect.
 
 > As a workspace member, I need workspaces to be easy to access, understand and to interact with, so that I can learn, share and connect.
 
 
-
-Do we want discover here or not?? Maybe keep a subsection of insights and needs together.
-
  **Evidence for insights:** Survey and interviews, wireframes and design concepts  
-
-### User needs 
-
-> As a workspace member, I need to be able to find relevant workspaces, so that I can interact with them.
 
 
 
 ### Areas to explore 
 
-Review previous design concepts 
+Review previous design concepts to evaluate potential updates to the existing Kahootz platform.
 
 **Challenges** 
 
