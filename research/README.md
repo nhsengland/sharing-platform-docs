@@ -43,5 +43,7 @@ Below are links to quantitative analyses we have undertaken on FutureNHS ordered
 
 ## By topic
 - [Notifications](/research/other/notifications.md) - How managers and members want to keep up to date with any changes or activity
+- [Permissions](/research/other/permissions.md) - The key stages of the design process to date for permissions related to workspaces, content areas and forums
+- [Registration](/research/other/registration.md) - Findings from the registration journey from start to finish, with a focus on the landing page, the registration form and onward journeys until arrival at the FutureNHS homepage
 
 
