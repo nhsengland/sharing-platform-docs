@@ -43,7 +43,7 @@ Below are links to quantitative analyses we have undertaken on FutureNHS ordered
 
 ## By topic
 - [Workspaces (Jan 2023)](/research/other/workspaces.md) - Findings and recommendations related to the set up, management and use of workspaces
-- [Workspace Discovery (Jan 2023)](/research/other/workspacesdiscovery.md) - Insights about finding workspaces, recommendations, search and the homepage
+- [Workspace Discovery (Jan 2023)](/research/other/workspacediscovery.md) - Insights about finding workspaces, recommendations, search and the homepage
 - [Registration (Dec 2022)](/research/other/registration.md) - The registration journey, with a focus on the landing page, registration form and onward journeys until arrival at the FutureNHS homepage
 - [Permissions (Dec 2022)](/research/other/permissions.md) - The design process to date for permissions related to workspaces, content areas and forums
 - [Notifications (Nov 2022)](/research/other/notifications.md) - How managers and members want to keep up to date with any changes or activity
