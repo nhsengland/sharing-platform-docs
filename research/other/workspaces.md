@@ -12,14 +12,14 @@ User research detailed in this blog has focused on the high-level user journeys 
 These journeys focus on core 'jobs to be done' and are defined as primary use cases for employees generally considered to be time-poor. 
 
 In addition, there are secondary use cases related to specific features and the 'discovery' of workspaces, people and discussions within the service. 
-Aspects of discoverability underlie many user needs and have largely been considered within the context of features including search, dashboard and updated homepage. These findings and recommendations have been summarised within a separate blog titled **workspace discovery**. It is assumed that well constructed and maintained workspaces will de facto become easier to discover. 
+Aspects of discoverability underlie many user needs and have largely been considered within the context of features including search, dashboard and updated homepage. These findings and recommendations have been summarised within a separate blog titled [Workspace Discovery](/research/other/workspacediscovery.md). It is assumed that well constructed and maintained workspaces will de facto become easier to discover. 
 
 Historically on FNHS, the majority of workspace managers have agreed that the platform successfully helps build a community and network with the purpose to:
 - keep stakeholders informed
 - share and collaborate on national, regional, or local guidance and information
 - share what works and doesn’t work so everyone can learn faster 
 
-Despite variations in the way it is used (for example between national, regional and local teams), managers are generally satisfied that the Kahootz platform meets their needs. (Some usability issues with permissions are outlined in the 'Permissions' blog and some additional areas for improvement have been identified related to workspace promotion and ongoing performance analytics.)  
+Despite variations in the way it is used (for example between national, regional and local teams), managers are generally satisfied that the Kahootz platform meets their needs. (Some usability issues with permissions are outlined in the [Permissions](/research/other/permissions.md) blog and some additional areas for improvement have been identified related to workspace promotion and ongoing performance analytics.)  
 
 Overall, workspaces offer significant creative freedom to workspace managers during set up. Arguably too much freedom, since many features go unused and some key features require a high level of digital literacy and experience to use effectively. (As evidenced by the need for ongoing technical support by many workspace managers.)
 
@@ -67,7 +67,7 @@ Learnings from this research form the key set of recommendations for updates and
 ### FNHS 2.0 Research  
 
 - [July 2022](/research/other/ICS-accessibility.md) - Focussed **accessibility** testing using the beta
-- [July 2022](/research/other/ICS-alpha.md) - **Protoype** testing for supporting Integrated Care Systems
+- [July 2022](/research/other/ICS-alpha.md) - **Prototype** testing for supporting Integrated Care Systems
 - [July 2022](/research/interviews/user-research-20220701.md) - **Usability** testing and heuristic review on the beta
 
 ### Designs  
