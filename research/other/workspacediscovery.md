@@ -59,7 +59,7 @@ simplest features and look for quick wins from existing Kahootz functionality.
 
 ### Long term  
 
-* Progress the design concept for customised homepage and integrate in-page context search where appropriate
+* Progress the design concept for customised homepage and integrate in-page contextual search where appropriate
 * Design optimal search results pages and flows
 * Assess migration issues  
 
@@ -86,7 +86,7 @@ simplest features and look for quick wins from existing Kahootz functionality.
 
 **Insight 1:**   Importance of information for **first time** users
 
-Users receiving an email invitation to join a workspace (group) on FNHS, need information about the workspace and a reason to proceed. This need continues
+Users receiving an email invitation to join a workspace (or group) on FNHS, need information about the workspace and a reason to proceed. This need continues
 once they have successfully signed up and arrived on their homepage and this part of the user journey needs to be better supported.
 
 **Insight 2:**   Many users **bypass** the  homepage, thus increasing the importance of email updates
@@ -101,7 +101,7 @@ This presents a significant challenge on how to broaden the experience for these
  
  **Insight 4:**   **Search** experience is lacking  
 
- The global search does not provide optimised results that support a range of discovery use cases.
+ The global search does not provide optimised results that support a range of discovery use cases. This relates to the role of search within specific user journeys - for example when searching within workspaces or discussions for topics or people. And it equally relates to the search results from the home page. User needs can vary according to differing journeys and well designed search functions and results should reflect this.
  
  
 
