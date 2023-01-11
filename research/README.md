@@ -8,15 +8,15 @@
 
 ## Beta User Research
 - [July 2022](/research/other/ICS-accessibility.md) - Focussed **accessibility testing** using the beta
-- [July 2022](/research/other/ICS-alpha.md) - Protoype testing for **supporting Integrated Care Systems**
+- [July 2022](/research/other/ICS-alpha.md) - Prototype testing for **supporting Integrated Care Systems**
 - [July 2022](/research/interviews/user-research-20220701.md) - **Usability** testing and heuristic review on the beta
 - [17 April 2022](/research/interviews/user-research-20220417.md) - Prototype testing for **registration**
 - [April 2022](/research/surveys/notifications-april22.md) - Survey to validate user needs, collect preferences and obtain feedback on Kahootz **updates** and **notifications**
-- [11 February 2022](/research/interviews/user-research-20220214.md) - Research and prototype testing on use of **notifications**
+- [11 Feb 2022](/research/interviews/user-research-20220214.md) - Research and prototype testing on use of **notifications**
 
 ## Alpha User Interviews 
 Below are links to qualitative user research we have undertaken on FutureNHS ordered by date (newest to oldest)
-- [1 February 2022](/research/interviews/user-research-20220202.md) - Interviews on **migration**
+- [1 Feb 2022](/research/interviews/user-research-20220202.md) - Interviews on **migration**
 - [24 Nov 2021](/research/interviews/user-research-20211124.md) - Interviews on **permissions**
 - [21 Sep 2021](/research/interviews/user-research-20210921.md) - Interviews on **segmentation** and **design validation** of **groups**, **files** and **folders**, **forums** and **user dashboard**
 - [3 Aug 2021](/research/interviews/user-research-20210803.md) - Interviews on use of **kahootz workspace homepage** and **Managers Wireframes**
@@ -32,9 +32,9 @@ Below are links to qualitative user research undertaken as part of **Discovery**
 
 ## Analytics
 Below are links to quantitative analyses we have undertaken on FutureNHS ordered by date (newest to oldest)
-- [11 November 2021](/research/quantitative/stats-research-20211111.md) - Analysis of how workspaces use **permissions** on **files** and **folders**. Data from 01 Jan 2020 to 30 June 2021
-- [29 October 2021](/research/quantitative/stats-research-20211029.md) - Analysis of how workspaces use **permissions** with regards to **forums**. Data up to 29 October 2021
-- [26 October 2021](/research/quantitative/stats-research-20211026.md) - How **Teams permissions** functions are used on the platform. Data up to 26 October 2021
+- [11 Nov 2021](/research/quantitative/stats-research-20211111.md) - Analysis of how workspaces use **permissions** on **files** and **folders**. Data from 01 Jan 2020 to 30 June 2021
+- [29 Oct 2021](/research/quantitative/stats-research-20211029.md) - Analysis of how workspaces use **permissions** with regards to **forums**. Data up to 29 October 2021
+- [26 Oct 2021](/research/quantitative/stats-research-20211026.md) - How **Teams permissions** functions are used on the platform. Data up to 26 October 2021
 - [12 July 2021](/research/quantitative/stats-research-20210712.md) - Types of **members creating folders** on the platform. Data from 01 May 2021 to 11 July 2021
 - [27 May 2021](/research/quantitative/stats-research-20210527.md) - Number of users who are **members of multiple workspaces**. Data from 01 Jan to 31 March 2021
 - [19 March 2021](/research/quantitative/stats-research-20210319.2.md) - Investigation into the use of **folders as web pages** on the platform. Data up to 19 March 2021
@@ -42,8 +42,12 @@ Below are links to quantitative analyses we have undertaken on FutureNHS ordered
 - [17 March 2021](/research/quantitative/stats-research-20210317.md) - Use of **Forums**. Data to 17 March 2021. Message data from 1 Jan to 17 Mar 2021
 
 ## By topic
-- [Notifications](/research/other/notifications.md) - How managers and members want to keep up to date with any changes or activity
-- [Permissions](/research/other/permissions.md) - The key stages of the design process to date for permissions related to workspaces, content areas and forums
-- [Registration](/research/other/registration.md) - Findings from the registration journey from start to finish, with a focus on the landing page, the registration form and onward journeys until arrival at the FutureNHS homepage
+- [Workspaces (Jan 2023)](/research/other/workspaces.md) - Findings and recommendations related to the set up, management and use of workspaces
+- [Workspace Discovery (Jan 2023)](/research/other/workspacesdiscovery.md) - Insights about finding workspaces, recommendations, search and the homepage
+- [Registration (Dec 2022)](/research/other/registration.md) - The registration journey, with a focus on the landing page, registration form and onward journeys until arrival at the FutureNHS homepage
+- [Permissions (Dec 2022)](/research/other/permissions.md) - The design process to date for permissions related to workspaces, content areas and forums
+- [Notifications (Nov 2022)](/research/other/notifications.md) - How managers and members want to keep up to date with any changes or activity
+
+
 
 
