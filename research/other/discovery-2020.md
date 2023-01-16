@@ -296,7 +296,7 @@ Those which cause task failure and serious problems are primarily issues that co
 
 ## Meeting user needs going forwards
 
-### User needs & featurss to build
+### User needs & features to build
 
 ![image](https://user-images.githubusercontent.com/9471595/119965183-e9516e80-bfa1-11eb-9695-8940a299037e.png)
 
