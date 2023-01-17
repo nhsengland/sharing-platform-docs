@@ -20,7 +20,7 @@ Historically on FNHS, the majority of workspace managers have agreed that the pl
 - share what works and doesn’t work so everyone can learn faster
 - avoid duplication
 
-Despite variations in the way it is used (for example between national, regional and local teams), managers are generally satisfied that the Kahootz platform meets their needs. (Some usability issues with permissions are outlined in the 'Permissions' blog and some additional areas for improvement have been identified related to workspace promotion and ongoing performance analytics.)  
+Despite variations in the way it is used (for example between national, regional and local teams), managers are generally satisfied that the Kahootz platform meets their needs. (Some usability issues with permissions are outlined in the [Permissions](/research/other/permissions.md) blog and some additional areas for improvement have been identified related to workspace promotion and ongoing performance analytics.)  
 
 Overall, workspaces offer significant creative freedom to workspace managers during set up. Arguably too much freedom, since many features go unused and some key features require a high level of digital literacy and experience to use effectively. (As evidenced by the need for ongoing technical support by many workspace managers.)
 
