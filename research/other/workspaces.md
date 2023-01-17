@@ -17,7 +17,8 @@ Aspects of discoverability underlie many user needs and have largely been consid
 Historically on FNHS, the majority of workspace managers have agreed that the platform successfully helps build a community and network with the purpose to:
 - keep stakeholders informed
 - share and collaborate on national, regional, or local guidance and information
-- share what works and doesn’t work so everyone can learn faster 
+- share what works and doesn’t work so everyone can learn faster
+- avoid duplication
 
 Despite variations in the way it is used (for example between national, regional and local teams), managers are generally satisfied that the Kahootz platform meets their needs. (Some usability issues with permissions are outlined in the 'Permissions' blog and some additional areas for improvement have been identified related to workspace promotion and ongoing performance analytics.)  
 
