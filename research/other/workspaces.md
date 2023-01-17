@@ -52,7 +52,7 @@ Learnings from this research form the key set of recommendations for updates and
 ### Long term  
 
 * Progress the design concept for content block templates  
-* Implement a template based CMS system that produces accessible pages whilst allowing managers freedom to create flexible pages
+* Implement a template based content management system (CMS) system that produces accessible pages whilst allowing managers freedom to create flexible pages
 * Assess migration issues  
 
 ## What we did   
