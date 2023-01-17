@@ -12,7 +12,7 @@ User research detailed in this blog has focused on the high-level user journeys 
 These journeys focus on core 'jobs to be done' and are defined as primary use cases for employees generally considered to be time-poor. 
 
 In addition, there are secondary use cases related to specific features and the 'discovery' of workspaces, people and discussions within the service. 
-Aspects of discoverability underlie many user needs and have largely been considered within the context of features including search, dashboard and updated homepage. These findings and recommendations have been summarised within a separate blog titled **workspace discovery**. It is assumed that well constructed and maintained workspaces will de facto become easier to discover. 
+Aspects of discoverability underlie many user needs and have largely been considered within the context of features including search, dashboard and updated homepage. These findings and recommendations have been summarised within a separate blog titled [workspace discovery](/research/other/workspacediscovery.md). It is assumed that well constructed and maintained workspaces will de facto become easier to discover. 
 
 Historically on FNHS, the majority of workspace managers have agreed that the platform successfully helps build a community and network with the purpose to:
 - keep stakeholders informed
